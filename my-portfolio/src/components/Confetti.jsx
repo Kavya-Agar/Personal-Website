@@ -26,7 +26,7 @@ export default function Confetti() {
           Count is {count}
         </button>
         <p>
-          Click for an Easter egg!
+          Click for an Easter Egg!
         </p>
       </div>
     );

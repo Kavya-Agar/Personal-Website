@@ -5,6 +5,8 @@ import About from './components/About';
 import Projects from './components/Projects';
 import Confetti from "./components/Confetti";
 import './App.css';
+import './index.css';
+
 
 function AppContent() {
   const location = useLocation();

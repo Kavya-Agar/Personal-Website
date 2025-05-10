@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion';
+import { Link } from 'react-router-dom';
 
 export default function Hero({ onContinue }) {
   return (
@@ -11,15 +12,25 @@ export default function Hero({ onContinue }) {
       >
         Hi, I'm Kavya.
       </motion.h1>
-      <motion.button
-        className="mt-4 px-8 py-3 bg-black text-white rounded-lg text-lg hover:bg-gray-800 transition"
-        whileHover={{ scale: 1.05 }}
-        onClick={onContinue}
-      >
-        Wanna know more? Just click here
-      </motion.button>
+      {jokefunnyaboutme()}
     </div>
 
     
   );
+
+  function jokefunnyaboutme() {
+    return (
+      <motion.div
+        className="mt-4"
+        whileHover={{ scale: 1.05 }}
+      >
+        <Link
+          to="/about"
+          className="px-8 py-3 bg-black text-white rounded-lg text-lg hover:bg-gray-800 transition nav-button"
+        >
+          Wanna know more? Just click here
+        </Link>
+      </motion.div>
+    );
+  }
 }
