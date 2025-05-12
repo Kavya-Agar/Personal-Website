@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 /* Fix the root padding to avoid overlap with the fixed navbar */
 #root {
   max-width: 1280px;
@@ -116,7 +120,7 @@ body {
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   padding: 20px;
-  margin: 60px 20px 20px 20px; /* Increased top margin to move box down */
+  margin: 10px 20px 20px 20px;
   transition: transform 0.2s;
   display: flex;
   flex-direction: column;
