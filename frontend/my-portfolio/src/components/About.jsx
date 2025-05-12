@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import profilePic from '../assets/IMG_6120_Original.jpg';
+import profilePic from '../assets/kavya_image.jpg';
 
 export default function About() {
   return (
@@ -17,18 +17,18 @@ export default function About() {
         <img
           src={profilePic}
           alt="Kavya Agar"
-          className="w-64 h-64 object-cover rounded-lg shadow-lg flex-shrink-0" // <-- Changed commas to spaces here
+          className="w-64 h-64 object-cover rounded-lg shadow-lg flex-shrink-0"
         />
 
         {/* Text on the right */}
         <div className="font-sans lg:text-lg md:text-md sm:text-sm w-full md:w-2/3 space-y-6 text-darkgreen text-opacity-70">
           <p>
-            Howdy! My name is Kavya Agar, a chill guy that likes to do anything and everything. 
+            Howdy! My name is Kavya Agar, a chill guy that likes to try anything and everything. 
           </p>
           <p>
             I am an undergraduate Computer Science student at Texas A&M University with minors in Statistics 
-            and Business. Outside of the regular academics, I like to watch Netflix, bake chocolate chip cookies,
-            make terrible jokes, and train for a marathon.
+            and Business. Apart from regular academics, I like to watch Netflix, bake chocolate chip cookies,
+            make terrible jokes, read books of all kind, and train for marathons.
           </p>
           <p>
             Join my journey as I explore the world of technology and share my experiences along the way!

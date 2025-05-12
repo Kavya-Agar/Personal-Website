@@ -30,11 +30,19 @@
 
 /* Site background */
 body {
-  background: #f8f9fa;
+  background: #ffffff;
   font-family: 'Inter', sans-serif;
   margin: 0;
   padding: 0;
   color: #181818;
+}
+
+/* Force light mode: ignore user's dark mode preference */
+@media (prefers-color-scheme: dark) {
+  html, body, #root {
+    background: #ffffff !important;
+    color: #181818 !important;
+  }
 }
 
 /* Logo styles */
@@ -71,7 +79,7 @@ body {
 .nav-button {
   font-family: 'Inter', sans-serif;
   font-size: 1rem;
-  color: #181818;
+  color: #0f420f;
   text-decoration: none;
   font-weight: 500;
   padding: 4px 8px;
@@ -80,6 +88,7 @@ body {
 
 .nav-button:hover {
   color: #007bff;
+  
 .nav-actions {
   display: flex;
   align-items: center;
@@ -106,7 +115,7 @@ body {
 }
 
 .action-btn.black {
-  background: #000000;
+  background: #0f420f;
   color: #fff;
 }
 
@@ -124,7 +133,7 @@ body {
   transition: transform 0.2s;
   display: flex;
   flex-direction: column;
-  align-items: center; /* Center content horizontally */
+  align-items: center;
 }
 .card:hover {
   transform: scale(1.1);

@@ -19,7 +19,7 @@ function AppContent() {
         <Route path="/about" element={<About />} />
         <Route path="/project" element={<Projects />} />
       </Routes>
-      {location.pathname === "/" && <Confetti />}
+      {/* {location.pathname === "/" && <Confetti />} */}
     </>
   );
 }
