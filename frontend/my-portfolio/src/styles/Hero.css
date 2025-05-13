@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding-top: 100px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.giraffe-pic {
+  width: 25%;
+  height: 25%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.giraffe-pic:hover {
+  transform: scale(1.1);
+}
+
+.olives-pic {
+  width: 25%;
+  height: 25%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.olives-pic:hover {
+  transform: scale(1.1)
+}

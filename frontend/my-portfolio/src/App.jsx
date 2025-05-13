@@ -3,9 +3,10 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import About from './components/About';
 import Projects from './components/Projects';
-import Confetti from "./components/Confetti";
 import './App.css';
 import './index.css';
+import Blog from './components/Blog';
+import Stats from './components/Stats';
 
 
 function AppContent() {
@@ -17,9 +18,10 @@ function AppContent() {
       <Routes>
         <Route path="/" element={<Hero />} />
         <Route path="/about" element={<About />} />
-        <Route path="/project" element={<Projects />} />
+        <Route path="/projects" element={<Projects />} />
+        <Route path="/blog" element={<Blog />} />
+        <Route path="/stats" element={<Stats />} />
       </Routes>
-      {/* {location.pathname === "/" && <Confetti />} */}
     </>
   );
 }

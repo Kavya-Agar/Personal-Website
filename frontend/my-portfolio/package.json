@@ -12,7 +12,8 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.1.6",
     "canvas-confetti": "^1.9.3",
-    "framer-motion": "^12.10.4",
+    "compass": "^0.1.1",
+    "framer-motion": "^12.11.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
