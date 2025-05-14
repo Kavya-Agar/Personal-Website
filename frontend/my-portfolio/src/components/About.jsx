@@ -32,8 +32,8 @@ export default function About() {
           </p>
           <p>
             I am an undergraduate Computer Science student at Texas A&M University with minors in Statistics 
-            and Business. Apart from regular academics, I like to watch Netflix, bake chocolate chip cookies,
-            make terrible jokes, read books of all kind, and train for marathons.
+            and Business. Outside of academics, I like to watch Netflix, bake chocolate chip cookies,
+            make terrible jokes, read books of all kind, and run side quests.
           </p>
           <p>
             Join my journey as I explore the world of technology and share my experiences along the way!

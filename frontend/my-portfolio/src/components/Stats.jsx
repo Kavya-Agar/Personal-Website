@@ -1,4 +1,5 @@
-import {motion} from 'framer-motion'
+import { motion } from 'framer-motion';
+import Netflix from '../components/Netflix.jsx';
 
 export default function Stats() {
   return (
@@ -12,6 +13,7 @@ export default function Stats() {
         Stats
       </motion.h1>
       <p className="text-lg text-gray-700">Here are some of my stats!</p>
+      <Netflix /> 
     </div>
   );
 }

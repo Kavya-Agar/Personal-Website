@@ -12,8 +12,7 @@ dist
 dist-ssr
 *.local
 posts/
-
-/Users/kavyaagar/Personal Website/backend/netflix/tmdb.py
+backend/
 
 # Editor directories and files
 .vscode/*

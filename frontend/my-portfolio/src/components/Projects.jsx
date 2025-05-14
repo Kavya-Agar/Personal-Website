@@ -20,7 +20,7 @@ export default function Projects() {
         
         {/* Project 1 */}
         <div className="project-card bg-white shadow-lg rounded-lg p-6">
-          <h3 className="title">
+          <h3 className="project-title">
             Heart R8
           </h3>
           <p className="description">
@@ -60,7 +60,7 @@ export default function Projects() {
 
         {/* Project 2 */}
         <div className="project-card bg-white shadow-lg rounded-lg p-6">
-          <h3 className="title">
+          <h3 className="project-title">
             FINance
           </h3>
           <p className='description'>

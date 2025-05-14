@@ -3,37 +3,58 @@ import { motion } from 'framer-motion';
 import '../styles/Blog.css';
 import { useState } from 'react';
 
+import id1 from '../assets/d7fd7d343609eca73b744647fafac28e.jpg';
+import id2 from '../assets/2c02bb1ba553a863f99489e9028961ae.jpg';
+
 const posts = [
     {
         id: 1,
         title: 'First Entry',
         date: '2025-05-13',
         summary: 'This is the first post on my new blog. Stay tuned for more updates!',
+        image: id1,
     },
     {
         id: 2,
-        title: 'React Tips and Tricks',
-        date: '2024-06-05',
-        summary: 'A collection of useful tips for working with React.',
-    },
-    {
-        id: 3,
-        title: 'Understanding JavaScript Closures',
-        date: '2024-06-10',
-        summary: 'A deep dive into closures in JavaScript and how they work.',
+        title: 'Second Entry',
+        date: '2025-05-14',
+        summary: 'This is the second post on the new blog.',
+        image: id2,
     }
 ];
 
 export default function Blog() {
     const [selectedPost, setSelectedPost] = useState(null);
 
-    // Add a 'content' field to each post for demonstration
-    const postsWithContent = posts.map(post => ({
-        ...post,
-        content: post.content || `Full content for "${post.title}". Replace this with your actual blog post content.`,
-        // Example image for demonstration; replace with your own images per post
-        image: post.image || "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=600&q=80",
-    }));
+    // Dynamically import all markdown files from a 'posts' folder
+    const [postsWithContent, setPostsWithContent] = useState([]);
+
+    React.useEffect(() => {
+        // This assumes you have markdown files in src/posts/ named by post id, e.g., 1.md, 2.md, etc.
+        async function fetchPostsContent() {
+            const loadedPosts = await Promise.all(
+                posts.map(async post => {
+                    try {
+                        // Dynamic import for markdown files (Vite/CRA/Webpack required)
+                        const content = await fetch(`/posts/${post.id}.md`).then(res => res.text());
+                        return {
+                            ...post,
+                            content,
+                            image: post.image || "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=600&q=80",
+                        };
+                    } catch {
+                        return {
+                            ...post,
+                            content: `Full content for "${post.title}" not found.`,
+                            image: post.image || "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=600&q=80",
+                        };
+                    }
+                })
+            );
+            setPostsWithContent(loadedPosts);
+        }
+        fetchPostsContent();
+    }, []);
 
     const sortedPosts = [...postsWithContent].sort((a, b) => new Date(b.date) - new Date(a.date));
 
@@ -46,8 +67,8 @@ export default function Blog() {
             viewport={{ once: true }}
             transition={{ duration: 0.7 }}
         >
-            <div className="flex flex-col items-center justify-center min-h-screen bg-white px-4">
-                <h1 className="title">Blog</h1>
+            <div className="flex flex-col items-start justify-center min-h-screen bg-white px-4">
+                <h1 className="page-title">Blog</h1>
                 <p className="blurb">Here's a sneak peek into my life!</p>
                 {selectedPost ? (
                     <div className="w-full max-w-2xl bg-gray-50 p-6 rounded shadow">
@@ -60,7 +81,7 @@ export default function Blog() {
                         <img
                             src={selectedPost.image}
                             alt={selectedPost.title}
-                            className="w-full h-64 object-cover rounded-lg mb-6"
+                            className="blog-image-after"
                         />
                         <h2 className="text-2xl font-semibold">{selectedPost.title}</h2>
                         <small className="text-gray-500">{selectedPost.date}</small>
@@ -77,7 +98,7 @@ export default function Blog() {
                                 <img
                                     src={post.image}
                                     alt={post.title}
-                                    className="w-full h-56 object-cover rounded-t-lg"
+                                    className="blog-image-before"
                                 />
                                 <div className="p-6 flex-1 flex flex-col justify-between">
                                     <div>

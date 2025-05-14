@@ -22,12 +22,24 @@
   @apply text-xl font-semibold mb-2;
 }
 
-.title {
-    @apply text-4xl md:text-6xl font-bold mb-6;
+.page-title {
+    @apply text-3xl font-bold mb-8;
+    justify-content: left;
     color: #0f420f;
+    /* @apply flex flex-col md:flex-row items-center md:items-start gap-10; */
 }
 
 .blurb {
     @apply text-lg text-gray-700 mb-8;
     color: #0f420f;
+}
+
+.blog-image-after {
+    @apply w-full object-cover rounded-lg mb-6;
+    border-radius: 8px;
+}
+.blog-image-before {
+    /* @apply w-full h-auto mb-4; */
+    @apply w-full h-56 object-cover rounded-t-lg;
+    border-radius: 8px;
 }
