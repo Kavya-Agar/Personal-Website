@@ -14,18 +14,18 @@ export default function Hero({ onContinue }) {
       setDisplayedText(fullText.slice(0, current + 1));
       current++;
       if (current === fullText.length) clearInterval(interval);
-    }, 80);
+    }, 100);
     return () => clearInterval(interval);
   }, []);
 
   return (
-    <div className="flex flex-col items-center justify-center bg-white relative">
+    <div className="flex flex-col items-center justify-center relative min-h-screen">
       <motion.h1
         className="text-4xl md:text-6xl font-medium mb-6 mt-16"
         style={{ color: '#0f420f' }}
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
-        transition={{ duration: 0.8 }}
+        transition={{ duration: 0.1 }}
       >
         {displayedText}
         <span className="animate-pulse">|</span>

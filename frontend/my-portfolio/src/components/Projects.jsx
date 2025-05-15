@@ -114,6 +114,63 @@ export default function Projects() {
           </a>
         </div>
         {/* Add more projects as needed */}
+
+        {/* Project 3 */}
+        <div className="project-card bg-white shadow-lg rounded-lg p-6">
+          <h3 className="project-title">
+            Personal Website
+          </h3>
+          <p className='description'>
+            A personal website to showcase my projects and skills so far as well as serve as a learning opportunity.
+            The website was designed to be simple and easy to navigate, as well as responsive to different screen sizes. 
+          </p>
+          <h3 className='technologies'>
+              Technologies Used:
+          </h3>
+
+          <div style={{ display: 'flex', gap: '12px', alignItems: 'center', marginBottom: '1rem' }}>
+            <img 
+              src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" 
+              alt="React Logo" 
+              className="technology-image"
+              style={{ width: '40px', height: '40px', objectFit: 'contain' }}
+            />
+            <img
+              src="https://images.seeklogo.com/logo-png/43/1/tailwind-css-logo-png_seeklogo-434090.png"
+              alt="Tailwind Logo"
+              className="technology-image"
+              style={{ width: '40px', height: '40px', objectFit: 'contain' }}
+            />  
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png"
+              alt="Vite Logo"
+              className="technology-image"
+              style={{ width: '40px', height: '40px', objectFit: 'contain' }}
+            />
+            <img
+              src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png"
+              alt="Python Logo"
+              className="technology-image"
+              style={{ width: '40px', height: '40px', objectFit: 'contain' }}
+            />
+            <img
+              src="https://www.svgrepo.com/show/353657/django-icon.svg"
+              alt="Django Logo"
+              className="technology-image"
+              style={{width: '40px', height: '40px', objectFit: 'contain' }}
+            />
+            
+            
+          </div>
+
+          <a href="https://www.janestreet.com/" 
+            className="project-link"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Viewing Project
+          </a>
+        </div>
       </div>
     </motion.section>
   );

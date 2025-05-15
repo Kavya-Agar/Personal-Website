@@ -25,7 +25,7 @@ export default function About() {
           onClick={() => setModalOpen(true)}
         />
 
-        {/* Text on the right */}
+        {/* Text and buttons on the right */}
         <div className="font-sans lg:text-lg md:text-md sm:text-sm w-full md:w-2/3 space-y-6 text-opacity-70" style={{ color: '#0f420f' }}>
           <p>
             Howdy! My name is Kavya Agar, a chill guy that likes to try anything and everything. 
@@ -38,6 +38,28 @@ export default function About() {
           <p>
             Join my journey as I explore the world of technology and share my experiences along the way!
           </p>
+          {/* Move the button row here */}
+          <div className="mt-6 flex flex-row items-center gap-6 justify-start">
+            <a
+              href="https://drive.google.com/file/d/1TFiJ3Xv1DRVB1eYSHY7Li92yycWeHfuK/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="resume-button"
+            >
+              Resume
+            </a>
+            <a
+              href="https://www.linkedin.com/in/kavya-agar/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="linkedin-button"
+            >
+              LinkedIn
+            </a>
+            <span className="font-semibold text-black"style={{ color: '#0f420f' }}>
+              kavyaagar0@gmail.com
+            </span>
+          </div>
         </div>
       </div>
 
@@ -54,25 +76,6 @@ export default function About() {
           />
         </div>
       )}
-
-      <div className="mt-6 flex justify-center gap-6">
-        <a
-          href="https://drive.google.com/file/d/1TFiJ3Xv1DRVB1eYSHY7Li92yycWeHfuK/view?usp=sharing"
-          target="_blank"
-          rel="noopener noreferrer"
-          className='resume-button'
-        >
-          Resume
-        </a>
-        <a
-          href="https://www.linkedin.com/in/kavya-agar/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className='linkedin-button'
-        >
-          LinkedIn
-        </a>
-      </div>
     </motion.section>
   );
 }

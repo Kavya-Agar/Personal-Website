@@ -20,7 +20,7 @@
   margin: 0 auto;
 }
 .giraffe-pic:hover {
-  transform: scale(1.1);
+  transform: scale(1.25);
 }
 
 .olives-pic {
@@ -29,6 +29,7 @@
   max-width: 600px;
   margin: 0 auto;
 }
+
 .olives-pic:hover {
-  transform: scale(1.1)
+  transform: scale(1.25)
 }

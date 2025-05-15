@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .page-title {
+    @apply text-3xl font-bold mb-8;
+    justify-content: left;
+    color: #0f420f;
+    /* @apply flex flex-col md:flex-row items-center md:items-start gap-10; */

@@ -6,7 +6,7 @@ import Projects from './components/Projects';
 import './App.css';
 import './index.css';
 import Blog from './components/Blog';
-import Stats from './components/Stats';
+import Extras from './components/Extras';
 
 
 function AppContent() {
@@ -20,7 +20,7 @@ function AppContent() {
         <Route path="/about" element={<About />} />
         <Route path="/projects" element={<Projects />} />
         <Route path="/blog" element={<Blog />} />
-        <Route path="/stats" element={<Stats />} />
+        <Route path="/extras" element={<Extras />} />
       </Routes>
     </>
   );

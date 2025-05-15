@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import logo from '../assets/logo.svg';
+import logo from '../assets/logo 2.png';
 import '../styles/Navbar.css';
 
 export default function Navbar() {
@@ -18,7 +18,7 @@ export default function Navbar() {
           <Link to="/about" className="nav-button">About Me</Link>
           <Link to="/projects" className="nav-button">Projects</Link>
           <Link to="/blog" className="nav-button">Blog</Link>
-          <Link to="/stats" className="nav-button">Stats</Link>
+          <Link to="/extras" className="nav-button">Extras</Link>
         </div>
       </div>
 
