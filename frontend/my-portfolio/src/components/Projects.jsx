@@ -163,7 +163,7 @@ export default function Projects() {
             
           </div>
 
-          <a href="https://www.janestreet.com/" 
+          <a href="https://www.kavyaagar.com/" 
             className="project-link"
             target="_blank"
             rel="noopener noreferrer"
