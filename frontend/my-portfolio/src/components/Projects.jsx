@@ -21,46 +21,6 @@ export default function Projects() {
         {/* Project 1 */}
         <div className="project-card bg-white shadow-lg rounded-lg p-6">
           <h3 className="project-title">
-            Heart R8
-          </h3>
-          <p className="description">
-            A low-cost wristband for older adults that detects abnormal heart rhythms and alerts them in case of 
-            arrythmias. The wristband is designed to be simple and easy to use, easing the process of managing cardiac 
-            health.
-          </p>
-
-          <h3 className='technologies'>
-            Technologies Used:
-          </h3>
-
-          <div style={{ display: 'flex', gap: '12px', alignItems: 'center', marginBottom: '1rem' }}>
-            <img 
-              src="https://www.electronics-lab.com/wp-content/uploads/2023/03/arduino-logo-1-1.png" 
-              alt="Arduino Logo" 
-              className="technology-image"
-              style={{ width: '40px', height: '40px', objectFit: 'contain' }}
-            />
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"
-              alt="C++ Logo"
-              className="technology-image"
-              style={{ width: '40px', height: '40px', objectFit: 'contain' }}
-            />
-          </div>
-
-          <a 
-            href="https://devpost.com/software/heart-rate-pulse-sensor" 
-            className="project-link"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            View Project
-          </a>
-        </div>
-
-        {/* Project 2 */}
-        <div className="project-card bg-white shadow-lg rounded-lg p-6">
-          <h3 className="project-title">
             FINance
           </h3>
           <p className='description'>
@@ -113,7 +73,46 @@ export default function Projects() {
             View Project
           </a>
         </div>
-        {/* Add more projects as needed */}
+        
+        {/* Project 2 */}
+        <div className="project-card bg-white shadow-lg rounded-lg p-6">
+          <h3 className="project-title">
+            Heart R8
+          </h3>
+          <p className="description">
+            A low-cost wristband for older adults that detects abnormal heart rhythms and alerts them in case of 
+            arrythmias. The wristband is designed to be simple and easy to use, easing the process of managing cardiac 
+            health.
+          </p>
+
+          <h3 className='technologies'>
+            Technologies Used:
+          </h3>
+
+          <div style={{ display: 'flex', gap: '12px', alignItems: 'center', marginBottom: '1rem' }}>
+            <img 
+              src="https://www.electronics-lab.com/wp-content/uploads/2023/03/arduino-logo-1-1.png" 
+              alt="Arduino Logo" 
+              className="technology-image"
+              style={{ width: '40px', height: '40px', objectFit: 'contain' }}
+            />
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"
+              alt="C++ Logo"
+              className="technology-image"
+              style={{ width: '40px', height: '40px', objectFit: 'contain' }}
+            />
+          </div>
+
+          <a 
+            href="https://devpost.com/software/heart-rate-pulse-sensor" 
+            className="project-link"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            View Project
+          </a>
+        </div>
 
         {/* Project 3 */}
         <div className="project-card bg-white shadow-lg rounded-lg p-6">
