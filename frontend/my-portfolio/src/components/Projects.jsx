@@ -52,17 +52,17 @@ export default function Projects() {
               style={{width: '40px', height: '40px', objectFit: 'contain' }}
             />
             <img
-              src="https://images.seeklogo.com/logo-png/27/1/flask-logo-png_seeklogo-273085.png"
-              alt="Flask Logo"
-              className="technology-image"
-              style={{ width: '40px', height: '40px', objectFit: 'contain' }}
-            />
-            <img
               src="https://static-00.iconduck.com/assets.00/tensorflow-icon-1911x2048-1m2s54vn.png"
               alt="Tensorflow Logo"
               className="technology-image"
               style={{ width: '40px', height: '40px', objectFit: 'contain' }}
-            />  
+            /> 
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"
+              alt="SQLite Logo"
+              className="technology-image"
+              style={{ width: '40px', height: '40px', objectFit: 'contain' }}
+            /> 
           </div>
 
           <a href="https://www.janestreet.com/" 
