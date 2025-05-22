@@ -1,0 +1,1276 @@
+[
+  {
+    "query": "Kabhi Khushi Kabhi Gham",
+    "details": {
+      "title": "Kabhi Khushi Kabhie Gham",
+      "type": "movie",
+      "length": 209,
+      "language": "hi",
+      "synopsis": "Years after his father disowns his adopted brother for marrying a woman of lower social standing, a young man goes on a mission to reunite his family.",
+      "imdb_id": "tt0248126",
+      "tmdb_rating": 7.7,
+      "genres": "Comedy, Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/12BvYKueY0eruZuTYIextEZaCC.jpg"
+    }
+  },
+  {
+    "query": "Dilwale Dulhania Le Jayenge",
+    "details": {
+      "title": "Dilwale Dulhania Le Jayenge",
+      "type": "movie",
+      "length": 190,
+      "language": "hi",
+      "synopsis": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fianc\u00e9. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+      "imdb_id": "tt0112870",
+      "tmdb_rating": 8.5,
+      "genres": "Comedy, Drama, Romance",
+      "poster_url": "https://image.tmdb.org/t/p/original/rfcy6Gd3PbFIqwZX5U8xnbv7jOc.jpg"
+    }
+  },
+  {
+    "query": "Scooby Doo!: Mystery Incorporated",
+    "details": {
+      "title": "Scooby-Doo! Mystery Incorporated",
+      "type": "tv",
+      "length": 22,
+      "language": "en",
+      "synopsis": "This incarnation of the popular cartoon series finds Scooby and the gang living in Crystal Cove, a small town with a long history of ghost sightings, monster tales and other mysteries ripe for the sleuths to solve once and for all. But the longstanding Crystal Cove residents, who bank on the town's reputation to attract tourists, are prepared to do what it takes to protect their turf.",
+      "imdb_id": null,
+      "tmdb_rating": 8.2,
+      "genres": "Animation, Mystery, Family",
+      "poster_url": "https://image.tmdb.org/t/p/original/crKsdtMuN7Y2JdXmmkzIrQzzo36.jpg"
+    }
+  },
+  {
+    "query": "Crazy Stupid Love",
+    "details": {
+      "title": "Crazy, Stupid, Love.",
+      "type": "movie",
+      "length": 118,
+      "language": "en",
+      "synopsis": "Cal Weaver is living the American dream. He has a good job, a beautiful house, great children and a beautiful wife, named Emily. Cal's seemingly perfect life unravels, however, when he learns that Emily has been unfaithful and wants a divorce. Over 40 and suddenly single, Cal is adrift in the fickle world of dating. Enter, Jacob Palmer, a self-styled player who takes Cal under his wing and teaches him how to be a hit with the ladies.",
+      "imdb_id": "tt1570728",
+      "tmdb_rating": 7.267,
+      "genres": "Comedy, Drama, Romance",
+      "poster_url": "https://image.tmdb.org/t/p/original/p4RafgAPk558muOjnBMHhMArjS2.jpg"
+    }
+  },
+  {
+    "query": "Dil Dhadakne Do",
+    "details": {
+      "title": "Dil Dhadakne Do",
+      "type": "movie",
+      "length": 170,
+      "language": "hi",
+      "synopsis": "On a cruise to celebrate their parents' 30th wedding anniversary, a brother and sister deal with the impact of family considerations on their romantic lives.",
+      "imdb_id": "tt4110568",
+      "tmdb_rating": 6.8,
+      "genres": "Drama, Family, Romance",
+      "poster_url": "https://image.tmdb.org/t/p/original/AqFX6282JM2ollS4XTFp6t6Dwa9.jpg"
+    }
+  },
+  {
+    "query": "How To Lose a Guy in 10 days",
+    "details": {
+      "title": "How to Lose a Guy in 10 Days",
+      "type": "movie",
+      "length": 116,
+      "language": "en",
+      "synopsis": "It's the battle of wills, as Andie needs to prove she can dump a guy in 10 days, whereas Ben needs to prove he can win a girl in 10 days. Now, the clock is ticking\u2014and the wildly entertaining comedy smash is off and running in this irresistible tale of sex, lies and outrageous romantic fireworks!",
+      "imdb_id": "tt0251127",
+      "tmdb_rating": 6.827,
+      "genres": "Comedy, Romance",
+      "poster_url": "https://image.tmdb.org/t/p/original/2dlftyPz7mTYbrsPvTogyFmYd7d.jpg"
+    }
+  },
+  {
+    "query": "The Wedding Planner 2001",
+    "details": {
+      "title": "The Wedding Planner",
+      "type": "movie",
+      "length": 103,
+      "language": "en",
+      "synopsis": "San Francisco's premiere wedding planner, Mary Fiore is rescued from an accident by the man of her dreams, pediatrician Steve Edison, only to find he is the fianc\u00e9 of her latest client. As Mary continues making their wedding arrangements, she and Steve are put into a string of uncomfortable situations that force them to face their mutual attraction.",
+      "imdb_id": "tt0209475",
+      "tmdb_rating": 5.933,
+      "genres": "Comedy, Romance",
+      "poster_url": "https://image.tmdb.org/t/p/original/meq4bLUPcBlOG3Z5YdiWuBMlpO.jpg"
+    }
+  },
+  {
+    "query": "Rockstar",
+    "details": {
+      "title": "Rockstar",
+      "type": "movie",
+      "length": 159,
+      "language": "hi",
+      "synopsis": "College student Janardhan is a simpleton who desperately seeks inspiration for the musician inside him. Although heartbreak helps him reach his goal, it also leads him to self-destruction.",
+      "imdb_id": "tt1839596",
+      "tmdb_rating": 7.3,
+      "genres": "Drama, Music, Romance",
+      "poster_url": "https://image.tmdb.org/t/p/original/cJZC9riwrdATBUonkZJZD6y9g40.jpg"
+    }
+  },
+  {
+    "query": "Delhi Crime",
+    "details": {
+      "title": "Delhi Crime",
+      "type": "tv",
+      "length": null,
+      "language": "hi",
+      "synopsis": "Following the police force as they investigate high-profile crimes in Delhi, this series has seasons inspired by both real and fictional events.",
+      "imdb_id": null,
+      "tmdb_rating": 7.786,
+      "genres": "Crime",
+      "poster_url": "https://image.tmdb.org/t/p/original/xkpkTj6KGsjSaet0VQaq0aTn31D.jpg"
+    }
+  },
+  {
+    "query": "Harry Potter and the Deathly Hallows Part 2",
+    "details": {
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "type": "movie",
+      "length": 130,
+      "language": "en",
+      "synopsis": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
+      "imdb_id": "tt1201607",
+      "tmdb_rating": 8.087,
+      "genres": "Fantasy, Adventure",
+      "poster_url": "https://image.tmdb.org/t/p/original/c54HpQmuwXjHq2C9wmoACjxoom3.jpg"
+    }
+  },
+  {
+    "query": "Star Wars Revenge of the Sith",
+    "details": {
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "type": "movie",
+      "length": 140,
+      "language": "en",
+      "synopsis": "The evil Darth Sidious enacts his final plan for unlimited power \u2013 and the heroic Jedi Anakin Skywalker must choose a side.",
+      "imdb_id": "tt0121766",
+      "tmdb_rating": 7.442,
+      "genres": "Adventure, Action, Science Fiction",
+      "poster_url": "https://image.tmdb.org/t/p/original/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg"
+    }
+  },
+  {
+    "query": "Don 2006",
+    "details": {
+      "title": "Don",
+      "type": "movie",
+      "length": 178,
+      "language": "hi",
+      "synopsis": "DCP DeSilva sees a way to bring to justice the feared head of a criminal empire by recruiting a man named Vijay, who looks exactly like the crime boss. The ruse works too well, and soon Vijay finds his life in danger when DeSilva, the only one who knows his true identity, dies.",
+      "imdb_id": "tt0461936",
+      "tmdb_rating": 6.9,
+      "genres": "Action, Drama, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/1d52h7aDRlc5IPUFno24XPNT6hA.jpg"
+    }
+  },
+  {
+    "query": "Inception",
+    "details": {
+      "title": "Inception",
+      "type": "movie",
+      "length": 148,
+      "language": "en",
+      "synopsis": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+      "imdb_id": "tt1375666",
+      "tmdb_rating": 8.369,
+      "genres": "Action, Science Fiction, Adventure",
+      "poster_url": "https://image.tmdb.org/t/p/original/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg"
+    }
+  },
+  {
+    "query": "Money Heist",
+    "details": {
+      "title": "Money Heist",
+      "type": "tv",
+      "length": null,
+      "language": "es",
+      "synopsis": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+      "imdb_id": null,
+      "tmdb_rating": 8.237,
+      "genres": "Crime, Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg"
+    }
+  },
+  {
+    "query": "Avengers: Age of Ultron",
+    "details": {
+      "title": "Avengers: Age of Ultron",
+      "type": "movie",
+      "length": 141,
+      "language": "en",
+      "synopsis": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth\u2019s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+      "imdb_id": "tt2395427",
+      "tmdb_rating": 7.271,
+      "genres": "Action, Adventure, Science Fiction",
+      "poster_url": "https://image.tmdb.org/t/p/original/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg"
+    }
+  },
+  {
+    "query": "Avengers: Infinity War",
+    "details": {
+      "title": "Avengers: Infinity War",
+      "type": "movie",
+      "length": 149,
+      "language": "en",
+      "synopsis": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+      "imdb_id": "tt4154756",
+      "tmdb_rating": 8.236,
+      "genres": "Adventure, Action, Science Fiction",
+      "poster_url": "https://image.tmdb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+    }
+  },
+  {
+    "query": "Avengers Endgame",
+    "details": {
+      "title": "Avengers: Endgame",
+      "type": "movie",
+      "length": 181,
+      "language": "en",
+      "synopsis": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+      "imdb_id": "tt4154796",
+      "tmdb_rating": 8.238,
+      "genres": "Adventure, Science Fiction, Action",
+      "poster_url": "https://image.tmdb.org/t/p/original/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+    }
+  },
+  {
+    "query": "House of Cards",
+    "details": {
+      "title": "House of Cards",
+      "type": "tv",
+      "length": null,
+      "language": "en",
+      "synopsis": "Set in present day Washington, D.C., House of Cards is the story of Frank Underwood, a ruthless and cunning politician, and his wife Claire who will stop at nothing to conquer everything. This wicked political drama penetrates the shadowy world of greed, sex and corruption in modern D.C.",
+      "imdb_id": null,
+      "tmdb_rating": 8.005,
+      "genres": "Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/hKWxWjFwnMvkWQawbhvC0Y7ygQ8.jpg"
+    }
+  },
+  {
+    "query": "Interstellar",
+    "details": {
+      "title": "Interstellar",
+      "type": "movie",
+      "length": 169,
+      "language": "en",
+      "synopsis": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+      "imdb_id": "tt0816692",
+      "tmdb_rating": 8.455,
+      "genres": "Adventure, Drama, Science Fiction",
+      "poster_url": "https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+    }
+  },
+  {
+    "query": "The Woman In The House Across The Street From The Girl In The Window",
+    "details": {
+      "title": "The Woman in the House Across the Street from the Girl in the Window",
+      "type": "tv",
+      "length": null,
+      "language": "en",
+      "synopsis": "For Anna, every day is the same. She sits with her wine, staring out the window, watching life go by without her. But when a handsome neighbor moves in across the street, Anna starts to see a light at the end of the tunnel. That is until she witnesses a gruesome murder\u2026 Or did she?",
+      "imdb_id": null,
+      "tmdb_rating": 6.622,
+      "genres": "Mystery, Crime, Comedy",
+      "poster_url": "https://image.tmdb.org/t/p/original/riSoMsWYkwqed4ul5PgHOnbIVFp.jpg"
+    }
+  },
+  {
+    "query": "The Amazing Spider-Man",
+    "details": {
+      "title": "The Amazing Spider-Man",
+      "type": "movie",
+      "length": 136,
+      "language": "en",
+      "synopsis": "Peter Parker is an outcast high schooler abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance \u2013 leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
+      "imdb_id": "tt0948470",
+      "tmdb_rating": 6.7,
+      "genres": "Action, Adventure, Science Fiction",
+      "poster_url": "https://image.tmdb.org/t/p/original/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg"
+    }
+  },
+  {
+    "query": "Yeh Jawaani Hai Deewani",
+    "details": {
+      "title": "Yeh Jawaani Hai Deewani",
+      "type": "movie",
+      "length": 160,
+      "language": "hi",
+      "synopsis": "On a trekking trip, an introverted Naina falls for a charming ex-classmate, whose thirst for adventure drives them apart. Years later, their paths cross again.",
+      "imdb_id": "tt2178470",
+      "tmdb_rating": 7.257,
+      "genres": "Romance, Comedy",
+      "poster_url": "https://image.tmdb.org/t/p/original/em39H81XLCDgXsI7V4IcBZseEO6.jpg"
+    }
+  },
+  {
+    "query": "Zindagi Na Milegi Dobara",
+    "details": {
+      "title": "Zindagi Na Milegi Dobara",
+      "type": "movie",
+      "length": 154,
+      "language": "hi",
+      "synopsis": "Three friends who were inseparable in childhood decide to go on a three-week-long bachelor road trip to Spain, in order to re-establish their bond and explore thrilling adventures, before one of them gets married. What will they learn of themselves and each other during the adventure?",
+      "imdb_id": "tt1562872",
+      "tmdb_rating": 7.564,
+      "genres": "Drama, Comedy, Romance",
+      "poster_url": "https://image.tmdb.org/t/p/original/gFQRmiPLFS0cIGpC1fyGiiqYz41.jpg"
+    }
+  },
+  {
+    "query": "The Batman 2022",
+    "details": {
+      "title": "The Batman",
+      "type": "movie",
+      "length": 177,
+      "language": "en",
+      "synopsis": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+      "imdb_id": "tt1877830",
+      "tmdb_rating": 7.655,
+      "genres": "Crime, Mystery, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+    }
+  },
+  {
+    "query": "The Gray Man",
+    "details": {
+      "title": "The Gray Man",
+      "type": "movie",
+      "length": 129,
+      "language": "en",
+      "synopsis": "When a shadowy CIA agent uncovers damning agency secrets, he's hunted across the globe by a sociopathic rogue operative who's put a bounty on his head.",
+      "imdb_id": "tt1649418",
+      "tmdb_rating": 6.944,
+      "genres": "Action, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/13r1DFhfL0qufFjXnrvWuh6qKqH.jpg"
+    }
+  },
+  {
+    "query": "Hasee Toh Phasee",
+    "details": {
+      "title": "Hasee Toh Phasee",
+      "type": "movie",
+      "length": 141,
+      "language": "hi",
+      "synopsis": "On the eve of Nikhil and Karishma\u2019s engagement, Karishma\u2019s wealthy father, Devesh Solanki, expresses his disapproval, believing Nikhil to be a lackadaisical young man. With one week to prove himself worthy to marry Karishma, Nikhil and Karishma's sister, Meeta, grow closer to each other.",
+      "imdb_id": "tt3173910",
+      "tmdb_rating": 6.543,
+      "genres": "Comedy, Romance",
+      "poster_url": "https://image.tmdb.org/t/p/original/A6s9Nb0bfuH1KqXvnG22FCAgrP7.jpg"
+    }
+  },
+  {
+    "query": "Peaky Blinders",
+    "details": {
+      "title": "Peaky Blinders",
+      "type": "tv",
+      "length": null,
+      "language": "en",
+      "synopsis": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+      "imdb_id": null,
+      "tmdb_rating": 8.531,
+      "genres": "Drama, Crime",
+      "poster_url": "https://image.tmdb.org/t/p/original/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+    }
+  },
+  {
+    "query": "Fight Club",
+    "details": {
+      "title": "Fight Club",
+      "type": "movie",
+      "length": 139,
+      "language": "en",
+      "synopsis": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+      "imdb_id": "tt0137523",
+      "tmdb_rating": 8.438,
+      "genres": "Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg"
+    }
+  },
+  {
+    "query": "Jab Tak Hai Jaan",
+    "details": {
+      "title": "Jab Tak Hai Jaan",
+      "type": "movie",
+      "length": 176,
+      "language": "hi",
+      "synopsis": "A bomb disposal expert becomes bitter and lonely and is unable to fall in love until he is forced to deal with his past.",
+      "imdb_id": "tt2176013",
+      "tmdb_rating": 7.07,
+      "genres": "Drama, Romance",
+      "poster_url": "https://image.tmdb.org/t/p/original/1TlzJZrzUlaC95Noqt3oMoxQxCu.jpg"
+    }
+  },
+  {
+    "query": "Ratatouille",
+    "details": {
+      "title": "Ratatouille",
+      "type": "movie",
+      "length": 111,
+      "language": "en",
+      "synopsis": "Remy, a resident of Paris, appreciates good food and has quite a sophisticated palate. He would love to become a chef so he can create and enjoy culinary masterpieces to his heart's delight. The only problem is, Remy is a rat. When he winds up in the sewer beneath one of Paris' finest restaurants, the rodent gourmet finds himself ideally placed to realize his dream.",
+      "imdb_id": "tt0382932",
+      "tmdb_rating": 7.827,
+      "genres": "Animation, Comedy, Family, Fantasy",
+      "poster_url": "https://image.tmdb.org/t/p/original/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
+    }
+  },
+  {
+    "query": "The Incredibles",
+    "details": {
+      "title": "The Incredibles",
+      "type": "movie",
+      "length": 115,
+      "language": "en",
+      "synopsis": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
+      "imdb_id": "tt0317705",
+      "tmdb_rating": 7.711,
+      "genres": "Action, Adventure, Animation, Family",
+      "poster_url": "https://image.tmdb.org/t/p/original/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg"
+    }
+  },
+  {
+    "query": "Incredibles 2",
+    "details": {
+      "title": "Incredibles 2",
+      "type": "movie",
+      "length": 118,
+      "language": "en",
+      "synopsis": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet \u2013 taking care of the problems of his three children.",
+      "imdb_id": "tt3606756",
+      "tmdb_rating": 7.455,
+      "genres": "Action, Adventure, Animation, Family",
+      "poster_url": "https://image.tmdb.org/t/p/original/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg"
+    }
+  },
+  {
+    "query": "Golmaal 3",
+    "details": {
+      "title": "Golmaal 3",
+      "type": "movie",
+      "length": 140,
+      "language": "hi",
+      "synopsis": "Golmaal 3 highlights the story of hatred between two bunch of siblings within a family. The family that eats together prays together, lives together, and can't stand each other.",
+      "imdb_id": "tt1562859",
+      "tmdb_rating": 5.407,
+      "genres": "Comedy, Family",
+      "poster_url": "https://image.tmdb.org/t/p/original/1pB5cZOtc8bj1rBLAJk4Nukhj6s.jpg"
+    }
+  },
+  {
+    "query": "Gossip Girl",
+    "details": {
+      "title": "Gossip Girl",
+      "type": "tv",
+      "length": null,
+      "language": "en",
+      "synopsis": "An exclusive group of privileged teens from a posh prep school on Manhattan's Upper East Side whose lives revolve around the blog of the all-knowing albeit ultra-secretive Gossip Girl.",
+      "imdb_id": null,
+      "tmdb_rating": 8.197,
+      "genres": "Drama, Mystery",
+      "poster_url": "https://image.tmdb.org/t/p/original/mRvSUuU1VQQkZZ578jKJpcUCuL8.jpg"
+    }
+  },
+  {
+    "query": "Gilmore Girls",
+    "details": {
+      "title": "Gilmore Girls",
+      "type": "tv",
+      "length": 44,
+      "language": "en",
+      "synopsis": "Set in the charming town of Stars Hollow, Connecticut, the series follows the captivating lives of Lorelai and Rory Gilmore, a mother/daughter pair who have a relationship most people only dream of.",
+      "imdb_id": null,
+      "tmdb_rating": 7.884,
+      "genres": "Comedy, Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/8hWwBpB1mLUKqzjdGrcvJcIklp4.jpg"
+    }
+  },
+  {
+    "query": "How I Met Your Mother",
+    "details": {
+      "title": "How I Met Your Mother",
+      "type": "tv",
+      "length": 22,
+      "language": "en",
+      "synopsis": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
+      "imdb_id": null,
+      "tmdb_rating": 8.144,
+      "genres": "Comedy",
+      "poster_url": "https://image.tmdb.org/t/p/original/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg"
+    }
+  },
+  {
+    "query": "The Office",
+    "details": {
+      "title": "The Office",
+      "type": "tv",
+      "length": null,
+      "language": "en",
+      "synopsis": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+      "imdb_id": null,
+      "tmdb_rating": 8.58,
+      "genres": "Comedy",
+      "poster_url": "https://image.tmdb.org/t/p/original/dg9e5fPRRId8PoBE0F6jl5y85Eu.jpg"
+    }
+  },
+  {
+    "query": "Friends",
+    "details": {
+      "title": "Friends",
+      "type": "tv",
+      "length": null,
+      "language": "en",
+      "synopsis": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.",
+      "imdb_id": null,
+      "tmdb_rating": 8.432,
+      "genres": "Comedy",
+      "poster_url": "https://image.tmdb.org/t/p/original/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg"
+    }
+  },
+  {
+    "query": "Mismatched",
+    "details": {
+      "title": "Mismatched",
+      "type": "tv",
+      "length": 32,
+      "language": "hi",
+      "synopsis": "After a disastrous set-up by their families, two teens strike up a tentative friendship at their summer program - but deeper feelings aren't far behind.",
+      "imdb_id": null,
+      "tmdb_rating": 6.5,
+      "genres": "Comedy, Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/l65kfL6qhTWd858OqGTr3RWwAUj.jpg"
+    }
+  },
+  {
+    "query": "Dil Se",
+    "details": {
+      "title": "Dil Se..",
+      "type": "movie",
+      "length": 163,
+      "language": "hi",
+      "synopsis": "Journalist Amar falls for a mysterious woman on an assignment, but she does not reciprocate his feelings. However, when Amar is about to get married, the woman shows up at his doorstep asking for help.",
+      "imdb_id": "tt0164538",
+      "tmdb_rating": 6.9,
+      "genres": "Drama, Romance",
+      "poster_url": "https://image.tmdb.org/t/p/original/hRNlTphHQFZkSyRu501Eva7KQMn.jpg"
+    }
+  },
+  {
+    "query": "Avatar: The Last Airbender",
+    "details": {
+      "title": "Avatar: The Last Airbender",
+      "type": "tv",
+      "length": 1423,
+      "language": "en",
+      "synopsis": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+      "imdb_id": null,
+      "tmdb_rating": 8.746,
+      "genres": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+      "poster_url": "https://image.tmdb.org/t/p/original/v2vn1coUMPKw0GI1KGC5J4IXtqp.jpg"
+    }
+  },
+  {
+    "query": "Ocean's Eleven",
+    "details": {
+      "title": "Ocean's Eleven",
+      "type": "movie",
+      "length": 127,
+      "language": "en",
+      "synopsis": "Danny Ocean and his gang attempt to rob the five biggest casinos in Las Vegas in one night.",
+      "imdb_id": "tt0054135",
+      "tmdb_rating": 6.365,
+      "genres": "Crime, Comedy",
+      "poster_url": "https://image.tmdb.org/t/p/original/A4R6u7SidBPVXMVzGSysCiRGTRz.jpg"
+    }
+  },
+  {
+    "query": "Ocean's Twelve",
+    "details": {
+      "title": "Ocean's Twelve",
+      "type": "movie",
+      "length": 125,
+      "language": "en",
+      "synopsis": "Despite pulling off one of the biggest heists in Las Vegas history and splitting the $160 million take, each of the infamous Ocean's crew have tried to go straight, lay low and live a legit life ... but that's proven to be a challenge. Casino owner Terry Benedict demands that Danny Ocean return the money, plus millions more in interest. Unable to come up the cash, the crew is forced to come together to pull off another series of heists, this time in Rome, Paris, and Amsterdam \u2013 but a Europol agent is hot on their heels.",
+      "imdb_id": "tt0349903",
+      "tmdb_rating": 6.564,
+      "genres": "Thriller, Crime",
+      "poster_url": "https://image.tmdb.org/t/p/original/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg"
+    }
+  },
+  {
+    "query": "Ocean's Thirteen",
+    "details": {
+      "title": "Ocean's Thirteen",
+      "type": "movie",
+      "length": 122,
+      "language": "en",
+      "synopsis": "Danny Ocean's team of criminals are back and composing a plan more personal than ever. When ruthless casino owner Willy Bank doublecrosses Reuben Tishkoff, causing a heart attack, Danny Ocean vows that he and his team will do anything to bring down Willy Bank along with everything he's got. Even if it means asking for help from an enemy.",
+      "imdb_id": "tt0496806",
+      "tmdb_rating": 6.721,
+      "genres": "Crime, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg"
+    }
+  },
+  {
+    "query": "A Series of Unfortunate Events",
+    "details": {
+      "title": "A Series of Unfortunate Events",
+      "type": "tv",
+      "length": 52,
+      "language": "en",
+      "synopsis": "The orphaned Baudelaire children face trials, tribulations and the evil Count Olaf, all in their quest to uncover the secret of their parents' death.",
+      "imdb_id": null,
+      "tmdb_rating": 7.4,
+      "genres": "Action & Adventure, Family, Comedy, Mystery",
+      "poster_url": "https://image.tmdb.org/t/p/original/qg7WXAatXyQq6zO3SnWnRJEayeZ.jpg"
+    }
+  },
+  {
+    "query": "Ben 10",
+    "details": {
+      "title": "Ben 10",
+      "type": "tv",
+      "length": 11,
+      "language": "en",
+      "synopsis": "With the fifth offshoot of the \"Ben 10\" franchise, the animated series returns to its roots and its original name, bringing 10-year-old Benjamin \"Ben\" Tennyson, his cousin Gwen, and Grandpa Max back to life on a new summer vacation journey. As in the original, the stories in the remake of the series also spin around an alien wristwatch called \"the Omnitrix,\" with the help of Ben can turn into ten different aliens, which come up with different supernatural powers. He fights enemy aliens and experiences with his grandfather and cousin the most exciting vacation imaginable.",
+      "imdb_id": null,
+      "tmdb_rating": 5.9,
+      "genres": "Kids, Animation, Comedy, Action & Adventure, Sci-Fi & Fantasy",
+      "poster_url": "https://image.tmdb.org/t/p/original/a4H0UR7aUkGZlT6Q9r9grBrjJWR.jpg"
+    }
+  },
+  {
+    "query": "Bodyguard",
+    "details": {
+      "title": "Bodyguard",
+      "type": "tv",
+      "length": 60,
+      "language": "en",
+      "synopsis": "A troubled war veteran is assigned to protect a controversial politician who may be the target of a terror plot.",
+      "imdb_id": null,
+      "tmdb_rating": 7.77,
+      "genres": "Crime, Drama, War & Politics",
+      "poster_url": "https://image.tmdb.org/t/p/original/5DUJTrHTRLHLCKWriPhdusQogAv.jpg"
+    }
+  },
+  {
+    "query": "Outer Banks",
+    "details": {
+      "title": "Outer Banks",
+      "type": "tv",
+      "length": 49,
+      "language": "en",
+      "synopsis": "A tight-knit group of teens unearths a long-buried secret, setting off a chain of illicit events that takes them on an adventure they'll never forget.",
+      "imdb_id": null,
+      "tmdb_rating": 8.357,
+      "genres": "Action & Adventure, Drama, Mystery",
+      "poster_url": "https://image.tmdb.org/t/p/original/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg"
+    }
+  },
+  {
+    "query": "Designated Survivor",
+    "details": {
+      "title": "Designated Survivor",
+      "type": "tv",
+      "length": null,
+      "language": "en",
+      "synopsis": "Tom Kirkman, a low-level cabinet member is suddenly appointed President of the United States after a catastrophic attack during the State of the Union kills everyone above him in the Presidential line of succession.",
+      "imdb_id": null,
+      "tmdb_rating": 7.1,
+      "genres": "Drama, War & Politics",
+      "poster_url": "https://image.tmdb.org/t/p/original/5R125JAIh1N38pzHp2dRsBpOVNY.jpg"
+    }
+  },
+  {
+    "query": "Swades",
+    "details": {
+      "title": "Swades",
+      "type": "movie",
+      "length": 195,
+      "language": "hi",
+      "synopsis": "A successful Indian scientist returns home to his village to take his nanny back to America with him, and in the process rediscovers his roots.",
+      "imdb_id": "tt0367110",
+      "tmdb_rating": 7.3,
+      "genres": "Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/yUSL24kpHc9Nls4Pohia4shgcIM.jpg"
+    }
+  },
+  {
+    "query": "Main Hoon Na",
+    "details": {
+      "title": "Main Hoon Na",
+      "type": "movie",
+      "length": 179,
+      "language": "hi",
+      "synopsis": "An army major goes undercover as a college student. His mission is both professional and personal: to protect his general's daughter from a radical militant, and to find his estranged half-brother.",
+      "imdb_id": "tt0347473",
+      "tmdb_rating": 6.636,
+      "genres": "Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/iiZ8BgmAsxKUEyO6ux8z6GHiE6j.jpg"
+    }
+  },
+  {
+    "query": "Bareilly Ki Barfi",
+    "details": {
+      "title": "Bareilly Ki Barfi",
+      "type": "movie",
+      "length": 123,
+      "language": "hi",
+      "synopsis": "Bitti Mishra is a bohemian Bareilly girl who falls deeply in love with Pritam Vidrohi, an author because she admires his progressive way of thinking. Finding him though proves to be as hard as looking for a needle in the haystack. So Bitti seeks the help of the local printing press-owner, Chirag Dubey on her journey of love.",
+      "imdb_id": "tt6967980",
+      "tmdb_rating": 6.8,
+      "genres": "Comedy, Romance",
+      "poster_url": "https://image.tmdb.org/t/p/original/zaG3qyFycMzmeRTWWOCvtMpfBRA.jpg"
+    }
+  },
+  {
+    "query": "The Lord of the Rings: The Return of the King",
+    "details": {
+      "title": "The Lord of the Rings: The Return of the King",
+      "type": "movie",
+      "length": 201,
+      "language": "en",
+      "synopsis": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.\u200b",
+      "imdb_id": "tt0167260",
+      "tmdb_rating": 8.484,
+      "genres": "Adventure, Fantasy, Action",
+      "poster_url": "https://image.tmdb.org/t/p/original/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg"
+    }
+  },
+  {
+    "query": "Kal Ho Naa Ho",
+    "details": {
+      "title": "Kal Ho Naa Ho",
+      "type": "movie",
+      "length": 187,
+      "language": "hi",
+      "synopsis": "An uptight MBA student falls for the charismatic new neighbor who charms her troubled family \u2013 but he has a secret that forces him to push her away.",
+      "imdb_id": "tt0347304",
+      "tmdb_rating": 7.4,
+      "genres": "Comedy, Drama, Romance",
+      "poster_url": "https://image.tmdb.org/t/p/original/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg"
+    }
+  },
+  {
+    "query": "The Good Place",
+    "details": {
+      "title": "The Good Place",
+      "type": "tv",
+      "length": 22,
+      "language": "en",
+      "synopsis": "Eleanor Shellstrop, an ordinary woman who, through an extraordinary string of events, enters the afterlife where she comes to realize that she hasn't been a very good person. With the help of her wise afterlife mentor, she's determined to shed her old way of living and discover the awesome (or at least the pretty good) person within.",
+      "imdb_id": null,
+      "tmdb_rating": 7.965,
+      "genres": "Sci-Fi & Fantasy, Comedy",
+      "poster_url": "https://image.tmdb.org/t/p/original/qIhsuhoIYR5yTnDta0IL4senbeN.jpg"
+    }
+  },
+  {
+    "query": "Jodhaa Akbar",
+    "details": {
+      "title": "Jodhaa Akbar",
+      "type": "movie",
+      "length": 213,
+      "language": "hi",
+      "synopsis": "A sixteenth century love story about a marriage of alliance that gave birth to true love between a Mughal emperor and a Rajput princess.",
+      "imdb_id": "tt0449994",
+      "tmdb_rating": 7.326,
+      "genres": "Romance, History, Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/gPjgeywFNTlh9IUuXWy85nn4h8J.jpg"
+    }
+  },
+  {
+    "query": "Tom Clancy's Jack Ryan",
+    "details": {
+      "title": "Tom Clancy's Jack Ryan",
+      "type": "tv",
+      "length": null,
+      "language": "en",
+      "synopsis": "When CIA analyst Jack Ryan stumbles upon a suspicious series of bank transfers his search for answers pulls him from the safety of his desk job and catapults him into a deadly game of cat and mouse throughout Europe and the Middle East, with a rising terrorist figurehead preparing for a massive attack against the US and her allies.",
+      "imdb_id": null,
+      "tmdb_rating": 7.683,
+      "genres": "Action & Adventure, Drama, War & Politics",
+      "poster_url": "https://image.tmdb.org/t/p/original/cO4py3L3q5GNPrA0qr1wVDrosK1.jpg"
+    }
+  },
+  {
+    "query": "Mr. and Mrs. Smith 2005",
+    "details": {
+      "title": "Mr. & Mrs. Smith",
+      "type": "movie",
+      "length": 119,
+      "language": "en",
+      "synopsis": "After five (or six) years of vanilla-wedded bliss, ordinary suburbanites John and Jane Smith are stuck in a huge rut. Unbeknownst to each other, they are both coolly lethal, highly-paid assassins working for rival organisations. When they discover they're each other's next target, their secret lives collide in a spicy, explosive mix of wicked comedy, pent-up passion, nonstop action and high-tech weaponry.",
+      "imdb_id": "tt0356910",
+      "tmdb_rating": 6.688,
+      "genres": "Action, Comedy, Drama, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg"
+    }
+  },
+  {
+    "query": "Shrek",
+    "details": {
+      "title": "Shrek",
+      "type": "movie",
+      "length": 90,
+      "language": "en",
+      "synopsis": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+      "imdb_id": "tt0126029",
+      "tmdb_rating": 7.751,
+      "genres": "Animation, Comedy, Fantasy, Adventure, Family",
+      "poster_url": "https://image.tmdb.org/t/p/original/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg"
+    }
+  },
+  {
+    "query": "The Lego Movie",
+    "details": {
+      "title": "The Lego Movie",
+      "type": "movie",
+      "length": 100,
+      "language": "en",
+      "synopsis": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.",
+      "imdb_id": "tt1490017",
+      "tmdb_rating": 7.416,
+      "genres": "Animation, Family, Adventure, Comedy, Fantasy",
+      "poster_url": "https://image.tmdb.org/t/p/original/lbctonEnewCYZ4FYoTZhs8cidAl.jpg"
+    }
+  },
+  {
+    "query": "Paatal Lok",
+    "details": {
+      "title": "Paatal Lok",
+      "type": "tv",
+      "length": null,
+      "language": "hi",
+      "synopsis": "A down and out cop lands the case of a lifetime when four suspects are nabbed in the assassination attempt of a prime time journalist. The case turns out to be a devious maze where nothing is what it looks like. The pursuit of it leads him to the dark netherworld - the 'Paatal Lok', and to shocking discoveries in the past of the four suspects.",
+      "imdb_id": null,
+      "tmdb_rating": 7.339,
+      "genres": "Crime, Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/duaaazbB49iKK4TMvekR3fQIVhU.jpg"
+    }
+  },
+  {
+    "query": "Kota Factory",
+    "details": {
+      "title": "Kota Factory",
+      "type": "tv",
+      "length": 40,
+      "language": "hi",
+      "synopsis": "In a city of coaching centers known to train India\u2019s finest collegiate minds, an earnest but unexceptional student and his friends navigate campus life.",
+      "imdb_id": null,
+      "tmdb_rating": 8.0,
+      "genres": "Comedy, Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/7Pi6b2gFgwKtxniTqFQNxHPsJQ.jpg"
+    }
+  },
+  {
+    "query": "Brooklyn 99",
+    "details": {
+      "title": "Brooklyn Nine-Nine",
+      "type": "tv",
+      "length": 21,
+      "language": "en",
+      "synopsis": "A single-camera ensemble comedy following the lives of an eclectic group of detectives in a New York precinct, including one slacker who is forced to shape up when he gets a new boss.",
+      "imdb_id": null,
+      "tmdb_rating": 8.209,
+      "genres": "Comedy, Crime",
+      "poster_url": "https://image.tmdb.org/t/p/original/hgRMSOt7a1b8qyQR68vUixJPang.jpg"
+    }
+  },
+  {
+    "query": "Parks and Recreation",
+    "details": {
+      "title": "Parks and Recreation",
+      "type": "tv",
+      "length": 22,
+      "language": "en",
+      "synopsis": "In an attempt to beautify her town \u2014 and advance her career \u2014 Leslie Knope, a mid-level bureaucrat in the Parks and Recreation Department of Pawnee, Indiana, takes on bureaucrats, cranky neighbors, and single-issue fanatics whose weapons are lawsuits, the jumble of city codes, and the democratic process she loves so much.",
+      "imdb_id": null,
+      "tmdb_rating": 8.0,
+      "genres": "Comedy",
+      "poster_url": "https://image.tmdb.org/t/p/original/dDuzrl9rUIBYieZjqmtNCdncrmZ.jpg"
+    }
+  },
+  {
+    "query": "Pathaan",
+    "details": {
+      "title": "Pathaan",
+      "type": "movie",
+      "length": 146,
+      "language": "hi",
+      "synopsis": "A soldier caught by enemies and presumed dead comes back to complete his mission, accompanied by old companions and foes.",
+      "imdb_id": "tt12844910",
+      "tmdb_rating": 6.475,
+      "genres": "Action, Adventure, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/cQOuFy19m0B8kpui7enCthaI8rP.jpg"
+    }
+  },
+  {
+    "query": "Aashiqui 2",
+    "details": {
+      "title": "Aashiqui 2",
+      "type": "movie",
+      "length": 132,
+      "language": "hi",
+      "synopsis": "A young woman meets a failing musician who launches her singing career, but their relationship is doomed when people assume he's with her for her fame and fortune.",
+      "imdb_id": "tt2203308",
+      "tmdb_rating": 6.8,
+      "genres": "Drama, Romance",
+      "poster_url": "https://image.tmdb.org/t/p/original/lMblq8xcQIRRIVdaMg1XC283gU0.jpg"
+    }
+  },
+  {
+    "query": "Farzi",
+    "details": {
+      "title": "Farzi",
+      "type": "movie",
+      "length": null,
+      "language": "hi",
+      "synopsis": "An artist who gets pulled into the murky high stakes of a con job and a fiery task force officer on the mission to rid the country of his menaces in a fast-paced, edgy one-of-a-kind thriller.",
+      "imdb_id": "tt15477488",
+      "tmdb_rating": 8.4,
+      "genres": "Thriller, Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/xslXoDf49hqtDf91wOep3IyPR1X.jpg"
+    }
+  },
+  {
+    "query": "Citadel: Honey Bunny",
+    "details": {
+      "title": "Citadel Honey Bunny",
+      "type": "tv",
+      "length": null,
+      "language": "en",
+      "synopsis": "When stuntman Bunny recruits struggling actress Honey for a side gig, they are hurled into a high-stakes world of action, espionage and betrayal. Years later, as their dangerous past catches up, the estranged Honey and Bunny must reunite and fight to protect their young daughter Nadia.",
+      "imdb_id": null,
+      "tmdb_rating": 6.78,
+      "genres": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+      "poster_url": "https://image.tmdb.org/t/p/original/lzZ9J2FOsaq1DCuD7k2f4ogbXdD.jpg"
+    }
+  },
+  {
+    "query": "Dear Zindagi",
+    "details": {
+      "title": "Dear Zindagi",
+      "type": "movie",
+      "length": 151,
+      "language": "hi",
+      "synopsis": "An unconventional thinker helps a budding cinematographer gain a new perspective on life.",
+      "imdb_id": "tt5946128",
+      "tmdb_rating": 7.036,
+      "genres": "Drama, Romance",
+      "poster_url": "https://image.tmdb.org/t/p/original/oUg0N2isgZ5rrxdXnsemcKolfKZ.jpg"
+    }
+  },
+  {
+    "query": "Ae Dil Hai Mushkil",
+    "details": {
+      "title": "Ae Dil Hai Mushkil",
+      "type": "movie",
+      "length": 158,
+      "language": "hi",
+      "synopsis": "Ayan falls in love with his soulmate, Alizeh, but she doesn\u2019t reciprocate the feeling. Later, a relationship with Saba helps him realize Alizeh\u2019s value in his life, irrespective of their relationship status.",
+      "imdb_id": "tt4559006",
+      "tmdb_rating": 6.4,
+      "genres": "Romance, Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/hlDOF4UhUqrYY7gqLk3Rl0Fx4ns.jpg"
+    }
+  },
+  {
+    "query": "Kapoor & Sons",
+    "details": {
+      "title": "Kapoor & Sons",
+      "type": "movie",
+      "length": 137,
+      "language": "hi",
+      "synopsis": "Returning home to visit their ill grandfather, two estranged brothers must confront their unresolved rivalry while their parents\u2019 marriage frays.",
+      "imdb_id": "tt4900716",
+      "tmdb_rating": 7.0,
+      "genres": "Drama, Romance, Comedy, Family",
+      "poster_url": "https://image.tmdb.org/t/p/original/oPdcOInH8TqR5udDTDPiDuLSN90.jpg"
+    }
+  },
+  {
+    "query": "Jab We Met",
+    "details": {
+      "title": "Jab We Met",
+      "type": "movie",
+      "length": 138,
+      "language": "hi",
+      "synopsis": "A depressed wealthy businessman and a spunky carefree young woman embark on an unexpected journey that changes their lives.",
+      "imdb_id": "tt1093370",
+      "tmdb_rating": 7.28,
+      "genres": "Drama, Comedy, Romance",
+      "poster_url": "https://image.tmdb.org/t/p/original/reEzvhfp85DTapHSPRzBULCXUuz.jpg"
+    }
+  },
+  {
+    "query": "OK Jaanu",
+    "details": {
+      "title": "Ok Jaanu",
+      "type": "movie",
+      "length": 135,
+      "language": "hi",
+      "synopsis": "Adi and Tara move to Bombay to pursue their dreams. A chance meeting sparks off a heady, no strings attached romance until their careers pull them apart. Will ambition prevail over matters of the heart?",
+      "imdb_id": "tt5764024",
+      "tmdb_rating": 5.9,
+      "genres": "Drama, Romance",
+      "poster_url": "https://image.tmdb.org/t/p/original/bEnoj00JrazyPULFuVGZHTcRhCd.jpg"
+    }
+  },
+  {
+    "query": "Student of the Year",
+    "details": {
+      "title": "Student Of The Year",
+      "type": "movie",
+      "length": 146,
+      "language": "hi",
+      "synopsis": "Several alumni reminisce about their final year at St. Theresa's College and the events that shaped their lives.",
+      "imdb_id": "tt2172071",
+      "tmdb_rating": 5.716,
+      "genres": "Comedy, Drama, Romance",
+      "poster_url": "https://image.tmdb.org/t/p/original/yAhfRGZx7nOAZkrm90pqaAjakdH.jpg"
+    }
+  },
+  {
+    "query": "The Hunger Games",
+    "details": {
+      "title": "The Hunger Games",
+      "type": "movie",
+      "length": 142,
+      "language": "en",
+      "synopsis": "Every year in the ruins of what was once North America, the nation of Panem forces each of its twelve districts to send a teenage boy and girl to compete in the Hunger Games.  Part twisted entertainment, part government intimidation tactic, the Hunger Games are a nationally televised event in which \u201cTributes\u201d must fight with one another until one survivor remains.  Pitted against highly-trained Tributes who have prepared for these Games their entire lives, Katniss is forced to rely upon her sharp instincts as well as the mentorship of drunken former victor Haymitch Abernathy.  If she\u2019s ever to return home to District 12, Katniss must make impossible choices in the arena that weigh survival against humanity and life against love. The world will be watching.",
+      "imdb_id": "tt1392170",
+      "tmdb_rating": 7.216,
+      "genres": "Science Fiction, Adventure, Action",
+      "poster_url": "https://image.tmdb.org/t/p/original/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg"
+    }
+  },
+  {
+    "query": "The Hunger Games: Catching Fire",
+    "details": {
+      "title": "The Hunger Games: Catching Fire",
+      "type": "movie",
+      "length": 146,
+      "language": "en",
+      "synopsis": "Katniss Everdeen has returned home safe after winning the 74th Annual Hunger Games along with fellow tribute Peeta Mellark. Winning means that they must turn around and leave their family and close friends, embarking on a \"Victor's Tour\" of the districts. Along the way Katniss senses that a rebellion is simmering, but the Capitol is still very much in control as President Snow prepares the 75th Annual Hunger Games (The Quarter Quell) - a competition that could change Panem forever.",
+      "imdb_id": "tt1951264",
+      "tmdb_rating": 7.428,
+      "genres": "Adventure, Action, Science Fiction",
+      "poster_url": "https://image.tmdb.org/t/p/original/qdXXEFGuLLfMWa1DGEkWFUo8Zwd.jpg"
+    }
+  },
+  {
+    "query": "The Hunger Games: Mockingjay - Part 1",
+    "details": {
+      "title": "The Hunger Games: Mockingjay - Part 1",
+      "type": "movie",
+      "length": 123,
+      "language": "en",
+      "synopsis": "Katniss Everdeen reluctantly becomes the symbol of a mass rebellion against the autocratic Capitol.",
+      "imdb_id": "tt1951265",
+      "tmdb_rating": 6.818,
+      "genres": "Science Fiction, Adventure, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/2hTPkBiXoMmrdtYgHtB9WU5dg80.jpg"
+    }
+  },
+  {
+    "query": "The Hunger Games: Mockingjay - Part 2",
+    "details": {
+      "title": "The Hunger Games: Mockingjay - Part 2",
+      "type": "movie",
+      "length": 137,
+      "language": "en",
+      "synopsis": "With the nation of Panem in a full scale war, Katniss confronts President Snow in the final showdown. Teamed with a group of her closest friends \u2013 including Gale, Finnick, and Peeta \u2013 Katniss goes off on a mission with the unit from District 13 as they risk their lives to stage an assassination attempt on President Snow who has become increasingly obsessed with destroying her. The mortal traps, enemies, and moral choices that await Katniss will challenge her more than any arena she faced in The Hunger Games.",
+      "imdb_id": "tt1951266",
+      "tmdb_rating": 6.9,
+      "genres": "Action, Adventure, Science Fiction",
+      "poster_url": "https://image.tmdb.org/t/p/original/7uLJCuK0ufoDklUdOORC8XanOKw.jpg"
+    }
+  },
+  {
+    "query": "The Ballad of Songbirds and Snakes",
+    "details": {
+      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "type": "movie",
+      "length": 157,
+      "language": "en",
+      "synopsis": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+      "imdb_id": "tt10545296",
+      "tmdb_rating": 7.018,
+      "genres": "Drama, Science Fiction, Adventure, Action",
+      "poster_url": "https://image.tmdb.org/t/p/original/lrkOYL5GBTFW9cgs9RlojxAcZZF.jpg"
+    }
+  },
+  {
+    "query": "Bachna Ae Haseeno",
+    "details": {
+      "title": "Bachna Ae Haseeno",
+      "type": "movie",
+      "length": 153,
+      "language": "hi",
+      "synopsis": "Raj is a heartbreaker. His love stories with Mahi, Radhika and Gayatri finally teach him about love and life in their own sweet, sexy and sassy way.",
+      "imdb_id": "tt1182972",
+      "tmdb_rating": 6.093,
+      "genres": "Romance, Comedy, Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/bFjzXEDw7b8tjWJeFEKMXjCkqbz.jpg"
+    }
+  },
+  {
+    "query": "Rocket Singh",
+    "details": {
+      "title": "Rocket Singh: Salesman of the Year",
+      "type": "movie",
+      "length": 156,
+      "language": "hi",
+      "synopsis": "Rocket Singh: Salesman of the Year is the sometimes thoughtless, sometimes thoughtful story of a fresh graduate trying to find a balance between the maddening demands of the 'professional' way, and the way of his heart - and stumbling upon a crazy way which turned his world upside down, and his career right side up. Welcome to the world of sales boss!",
+      "imdb_id": "tt1434447",
+      "tmdb_rating": 6.786,
+      "genres": "Drama, Comedy, Romance",
+      "poster_url": "https://image.tmdb.org/t/p/original/3Z8lLFzPOBfOO4w3CykRaCeh9h.jpg"
+    }
+  },
+  {
+    "query": "Barfi!",
+    "details": {
+      "title": "Barfi!",
+      "type": "movie",
+      "length": 151,
+      "language": "hi",
+      "synopsis": "The heartwarming tale of Barfi, a charming deaf-mute young man from 1970s Darjeeling, and two unalike women who can't help but fall for him.",
+      "imdb_id": "tt2082197",
+      "tmdb_rating": 7.6,
+      "genres": "Drama, Romance, Comedy",
+      "poster_url": "https://image.tmdb.org/t/p/original/5cJIx2zKjDoUtPSliou23xsReb1.jpg"
+    }
+  },
+  {
+    "query": "Jessie",
+    "details": {
+      "title": "Jessie",
+      "type": "tv",
+      "length": 23,
+      "language": "en",
+      "synopsis": "An idealistic teen from rural Texas embarks on the adventure of a lifetime when she decides to leave behind starry nights for big city lights. Thrilled to be on her own and determined not to be intimidated by New York City, she accepts a job as nanny for a high-profile couple with four kids. Helping to keep her moral compass in check are Bertram, the family's butler, and Tony, the building's 20-year-old doorman.",
+      "imdb_id": null,
+      "tmdb_rating": 8.018,
+      "genres": "Comedy, Kids, Drama, Family",
+      "poster_url": "https://image.tmdb.org/t/p/original/tspQe0FuiaUj0U1R1norNbiYTe4.jpg"
+    }
+  },
+  {
+    "query": "Daredevil: Born Again",
+    "details": {
+      "title": "Daredevil: Born Again",
+      "type": "tv",
+      "length": null,
+      "language": "en",
+      "synopsis": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+      "imdb_id": null,
+      "tmdb_rating": 8.048,
+      "genres": "Drama, Crime",
+      "poster_url": "https://image.tmdb.org/t/p/original/9lLuhV703HGCbnz6FxnqCwIwzAZ.jpg"
+    }
+  },
+  {
+    "query": "Stranger Things",
+    "details": {
+      "title": "Stranger Things",
+      "type": "tv",
+      "length": null,
+      "language": "en",
+      "synopsis": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "imdb_id": null,
+      "tmdb_rating": 8.596,
+      "genres": "Drama, Sci-Fi & Fantasy, Mystery",
+      "poster_url": "https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg"
+    }
+  },
+  {
+    "query": "We're The Millers",
+    "details": {
+      "title": "We're the Millers",
+      "type": "movie",
+      "length": 110,
+      "language": "en",
+      "synopsis": "A veteran pot dealer creates a fake family as part of his plan to move a huge shipment of weed into the U.S. from Mexico.",
+      "imdb_id": "tt1723121",
+      "tmdb_rating": 6.833,
+      "genres": "Comedy, Crime",
+      "poster_url": "https://image.tmdb.org/t/p/original/yNJreiR2PuiGwsWWJC7cWpgXwCL.jpg"
+    }
+  },
+  {
+    "query": "The Conjuring",
+    "details": {
+      "title": "The Conjuring",
+      "type": "movie",
+      "length": 112,
+      "language": "en",
+      "synopsis": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
+      "imdb_id": "tt1457767",
+      "tmdb_rating": 7.541,
+      "genres": "Horror, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/wVYREutTvI2tmxr6ujrHT704wGF.jpg"
+    }
+  },
+  {
+    "query": "The Conjuring: The Devil Made Me Do It",
+    "details": {
+      "title": "The Conjuring: The Devil Made Me Do It",
+      "type": "movie",
+      "length": 111,
+      "language": "en",
+      "synopsis": "Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they'd ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.",
+      "imdb_id": "tt7069210",
+      "tmdb_rating": 7.406,
+      "genres": "Horror, Mystery, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg"
+    }
+  },
+  {
+    "query": "The Crown",
+    "details": {
+      "title": "The Crown",
+      "type": "tv",
+      "length": null,
+      "language": "en",
+      "synopsis": "The gripping, decades-spanning inside story of Her Majesty Queen Elizabeth II and the Prime Ministers who shaped Britain's post-war destiny. \n\nThe Crown tells the inside story of two of the most famous addresses in the world \u2013 Buckingham Palace and 10 Downing Street \u2013 and the intrigues, love lives and machinations behind the great events that shaped the second half of the 20th century. Two houses, two courts, one Crown.",
+      "imdb_id": null,
+      "tmdb_rating": 8.207,
+      "genres": "Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg"
+    }
+  },
+  {
+    "query": "Laapataa Ladies",
+    "details": {
+      "title": "Lost Ladies",
+      "type": "movie",
+      "length": 123,
+      "language": "hi",
+      "synopsis": "In 2001, somewhere in rural India, two young brides get accidentally swapped on a train. In the ensuing chaos, they both encounter a host of colourful characters, resulting in hilarious and unexpected consequences.",
+      "imdb_id": "tt21626284",
+      "tmdb_rating": 7.75,
+      "genres": "Comedy, Drama, Romance",
+      "poster_url": "https://image.tmdb.org/t/p/original/yXt07MYeiyQRzS69PMHy0BPjCGP.jpg"
+    }
+  },
+  {
+    "query": "Bajrangi Bhaijaan",
+    "details": {
+      "title": "Bajrangi Bhaijaan",
+      "type": "movie",
+      "length": 159,
+      "language": "hi",
+      "synopsis": "A young mute girl from Pakistan loses herself in India with no way to head back. A devoted man with a magnanimous spirit undertakes the task to get her back to her motherland and unite her with her family.",
+      "imdb_id": "tt3863552",
+      "tmdb_rating": 7.8,
+      "genres": "Comedy, Drama, Action",
+      "poster_url": "https://image.tmdb.org/t/p/original/vhlliI7HZZlWfo5d6CiyfBAGLrW.jpg"
+    }
+  }
+]

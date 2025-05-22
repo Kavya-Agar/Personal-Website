@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 posts/
-backend/
+.env
 
 # Editor directories and files
 .vscode/*
