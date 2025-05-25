@@ -22,7 +22,7 @@
       "language": "hi",
       "synopsis": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fianc\u00e9. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
       "imdb_id": "tt0112870",
-      "tmdb_rating": 8.5,
+      "tmdb_rating": 8.516,
       "genres": "Comedy, Drama, Romance",
       "poster_url": "https://image.tmdb.org/t/p/original/rfcy6Gd3PbFIqwZX5U8xnbv7jOc.jpg"
     }
@@ -36,7 +36,7 @@
       "language": "en",
       "synopsis": "This incarnation of the popular cartoon series finds Scooby and the gang living in Crystal Cove, a small town with a long history of ghost sightings, monster tales and other mysteries ripe for the sleuths to solve once and for all. But the longstanding Crystal Cove residents, who bank on the town's reputation to attract tourists, are prepared to do what it takes to protect their turf.",
       "imdb_id": null,
-      "tmdb_rating": 8.2,
+      "tmdb_rating": 8.223,
       "genres": "Animation, Mystery, Family",
       "poster_url": "https://image.tmdb.org/t/p/original/crKsdtMuN7Y2JdXmmkzIrQzzo36.jpg"
     }
@@ -78,7 +78,7 @@
       "language": "en",
       "synopsis": "It's the battle of wills, as Andie needs to prove she can dump a guy in 10 days, whereas Ben needs to prove he can win a girl in 10 days. Now, the clock is ticking\u2014and the wildly entertaining comedy smash is off and running in this irresistible tale of sex, lies and outrageous romantic fireworks!",
       "imdb_id": "tt0251127",
-      "tmdb_rating": 6.827,
+      "tmdb_rating": 6.83,
       "genres": "Comedy, Romance",
       "poster_url": "https://image.tmdb.org/t/p/original/2dlftyPz7mTYbrsPvTogyFmYd7d.jpg"
     }
@@ -92,9 +92,37 @@
       "language": "en",
       "synopsis": "San Francisco's premiere wedding planner, Mary Fiore is rescued from an accident by the man of her dreams, pediatrician Steve Edison, only to find he is the fianc\u00e9 of her latest client. As Mary continues making their wedding arrangements, she and Steve are put into a string of uncomfortable situations that force them to face their mutual attraction.",
       "imdb_id": "tt0209475",
-      "tmdb_rating": 5.933,
+      "tmdb_rating": 5.931,
       "genres": "Comedy, Romance",
       "poster_url": "https://image.tmdb.org/t/p/original/meq4bLUPcBlOG3Z5YdiWuBMlpO.jpg"
+    }
+  },
+  {
+    "query": "Sherlock",
+    "details": {
+      "title": "Sherlock",
+      "type": "tv",
+      "length": 90,
+      "language": "en",
+      "synopsis": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+      "imdb_id": null,
+      "tmdb_rating": 8.5,
+      "genres": "Crime, Drama, Mystery",
+      "poster_url": "https://image.tmdb.org/t/p/original/cIfGAkpvWD2zxHrXzhv3uptYbyV.jpg"
+    }
+  },
+  {
+    "query": "Bodyguard",
+    "details": {
+      "title": "Bodyguard",
+      "type": "tv",
+      "length": 60,
+      "language": "en",
+      "synopsis": "A troubled war veteran is assigned to protect a controversial politician who may be the target of a terror plot.",
+      "imdb_id": null,
+      "tmdb_rating": 7.769,
+      "genres": "Crime, Drama, War & Politics",
+      "poster_url": "https://image.tmdb.org/t/p/original/5DUJTrHTRLHLCKWriPhdusQogAv.jpg"
     }
   },
   {
@@ -148,7 +176,7 @@
       "language": "en",
       "synopsis": "The evil Darth Sidious enacts his final plan for unlimited power \u2013 and the heroic Jedi Anakin Skywalker must choose a side.",
       "imdb_id": "tt0121766",
-      "tmdb_rating": 7.442,
+      "tmdb_rating": 7.444,
       "genres": "Adventure, Action, Science Fiction",
       "poster_url": "https://image.tmdb.org/t/p/original/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg"
     }
@@ -182,6 +210,20 @@
     }
   },
   {
+    "query": "The Diplomat",
+    "details": {
+      "title": "The Diplomat",
+      "type": "tv",
+      "length": null,
+      "language": "en",
+      "synopsis": "In the midst of an international crisis, a career diplomat lands in a high-profile job she\u2019s unsuited for, with tectonic implications for her marriage and her political future.",
+      "imdb_id": null,
+      "tmdb_rating": 7.533,
+      "genres": "Drama, War & Politics",
+      "poster_url": "https://image.tmdb.org/t/p/original/cOKXV0FalCYixNmZYCfHXgyQ0VX.jpg"
+    }
+  },
+  {
     "query": "Money Heist",
     "details": {
       "title": "Money Heist",
@@ -190,7 +232,7 @@
       "language": "es",
       "synopsis": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
       "imdb_id": null,
-      "tmdb_rating": 8.237,
+      "tmdb_rating": 8.236,
       "genres": "Crime, Drama",
       "poster_url": "https://image.tmdb.org/t/p/original/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg"
     }
@@ -204,7 +246,7 @@
       "language": "en",
       "synopsis": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth\u2019s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
       "imdb_id": "tt2395427",
-      "tmdb_rating": 7.271,
+      "tmdb_rating": 7.272,
       "genres": "Action, Adventure, Science Fiction",
       "poster_url": "https://image.tmdb.org/t/p/original/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg"
     }
@@ -232,7 +274,7 @@
       "language": "en",
       "synopsis": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
       "imdb_id": "tt4154796",
-      "tmdb_rating": 8.238,
+      "tmdb_rating": 8.239,
       "genres": "Adventure, Science Fiction, Action",
       "poster_url": "https://image.tmdb.org/t/p/original/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
     }
@@ -260,7 +302,7 @@
       "language": "en",
       "synopsis": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
       "imdb_id": "tt0816692",
-      "tmdb_rating": 8.455,
+      "tmdb_rating": 8.454,
       "genres": "Adventure, Drama, Science Fiction",
       "poster_url": "https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
     }
@@ -274,7 +316,7 @@
       "language": "en",
       "synopsis": "For Anna, every day is the same. She sits with her wine, staring out the window, watching life go by without her. But when a handsome neighbor moves in across the street, Anna starts to see a light at the end of the tunnel. That is until she witnesses a gruesome murder\u2026 Or did she?",
       "imdb_id": null,
-      "tmdb_rating": 6.622,
+      "tmdb_rating": 6.626,
       "genres": "Mystery, Crime, Comedy",
       "poster_url": "https://image.tmdb.org/t/p/original/riSoMsWYkwqed4ul5PgHOnbIVFp.jpg"
     }
@@ -288,7 +330,7 @@
       "language": "en",
       "synopsis": "Peter Parker is an outcast high schooler abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance \u2013 leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
       "imdb_id": "tt0948470",
-      "tmdb_rating": 6.7,
+      "tmdb_rating": 6.716,
       "genres": "Action, Adventure, Science Fiction",
       "poster_url": "https://image.tmdb.org/t/p/original/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg"
     }
@@ -316,7 +358,7 @@
       "language": "hi",
       "synopsis": "Three friends who were inseparable in childhood decide to go on a three-week-long bachelor road trip to Spain, in order to re-establish their bond and explore thrilling adventures, before one of them gets married. What will they learn of themselves and each other during the adventure?",
       "imdb_id": "tt1562872",
-      "tmdb_rating": 7.564,
+      "tmdb_rating": 7.5,
       "genres": "Drama, Comedy, Romance",
       "poster_url": "https://image.tmdb.org/t/p/original/gFQRmiPLFS0cIGpC1fyGiiqYz41.jpg"
     }
@@ -330,7 +372,7 @@
       "language": "en",
       "synopsis": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
       "imdb_id": "tt1877830",
-      "tmdb_rating": 7.655,
+      "tmdb_rating": 7.7,
       "genres": "Crime, Mystery, Thriller",
       "poster_url": "https://image.tmdb.org/t/p/original/74xTEgt7R36Fpooo50r9T25onhq.jpg"
     }
@@ -372,7 +414,7 @@
       "language": "en",
       "synopsis": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
       "imdb_id": null,
-      "tmdb_rating": 8.531,
+      "tmdb_rating": 8.5,
       "genres": "Drama, Crime",
       "poster_url": "https://image.tmdb.org/t/p/original/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
     }
@@ -470,7 +512,7 @@
       "language": "en",
       "synopsis": "An exclusive group of privileged teens from a posh prep school on Manhattan's Upper East Side whose lives revolve around the blog of the all-knowing albeit ultra-secretive Gossip Girl.",
       "imdb_id": null,
-      "tmdb_rating": 8.197,
+      "tmdb_rating": 8.2,
       "genres": "Drama, Mystery",
       "poster_url": "https://image.tmdb.org/t/p/original/mRvSUuU1VQQkZZ578jKJpcUCuL8.jpg"
     }
@@ -484,7 +526,7 @@
       "language": "en",
       "synopsis": "Set in the charming town of Stars Hollow, Connecticut, the series follows the captivating lives of Lorelai and Rory Gilmore, a mother/daughter pair who have a relationship most people only dream of.",
       "imdb_id": null,
-      "tmdb_rating": 7.884,
+      "tmdb_rating": 7.887,
       "genres": "Comedy, Drama",
       "poster_url": "https://image.tmdb.org/t/p/original/8hWwBpB1mLUKqzjdGrcvJcIklp4.jpg"
     }
@@ -498,7 +540,7 @@
       "language": "en",
       "synopsis": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
       "imdb_id": null,
-      "tmdb_rating": 8.144,
+      "tmdb_rating": 8.145,
       "genres": "Comedy",
       "poster_url": "https://image.tmdb.org/t/p/original/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg"
     }
@@ -512,7 +554,7 @@
       "language": "en",
       "synopsis": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
       "imdb_id": null,
-      "tmdb_rating": 8.58,
+      "tmdb_rating": 8.578,
       "genres": "Comedy",
       "poster_url": "https://image.tmdb.org/t/p/original/dg9e5fPRRId8PoBE0F6jl5y85Eu.jpg"
     }
@@ -554,7 +596,7 @@
       "language": "hi",
       "synopsis": "Journalist Amar falls for a mysterious woman on an assignment, but she does not reciprocate his feelings. However, when Amar is about to get married, the woman shows up at his doorstep asking for help.",
       "imdb_id": "tt0164538",
-      "tmdb_rating": 6.9,
+      "tmdb_rating": 6.86,
       "genres": "Drama, Romance",
       "poster_url": "https://image.tmdb.org/t/p/original/hRNlTphHQFZkSyRu501Eva7KQMn.jpg"
     }
@@ -564,11 +606,11 @@
     "details": {
       "title": "Avatar: The Last Airbender",
       "type": "tv",
-      "length": 1423,
+      "length": 24,
       "language": "en",
       "synopsis": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
       "imdb_id": null,
-      "tmdb_rating": 8.746,
+      "tmdb_rating": 8.745,
       "genres": "Animation, Action & Adventure, Sci-Fi & Fantasy",
       "poster_url": "https://image.tmdb.org/t/p/original/v2vn1coUMPKw0GI1KGC5J4IXtqp.jpg"
     }
@@ -578,13 +620,13 @@
     "details": {
       "title": "Ocean's Eleven",
       "type": "movie",
-      "length": 127,
+      "length": 116,
       "language": "en",
-      "synopsis": "Danny Ocean and his gang attempt to rob the five biggest casinos in Las Vegas in one night.",
-      "imdb_id": "tt0054135",
-      "tmdb_rating": 6.365,
-      "genres": "Crime, Comedy",
-      "poster_url": "https://image.tmdb.org/t/p/original/A4R6u7SidBPVXMVzGSysCiRGTRz.jpg"
+      "synopsis": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
+      "imdb_id": "tt0240772",
+      "tmdb_rating": 7.447,
+      "genres": "Thriller, Crime",
+      "poster_url": "https://image.tmdb.org/t/p/original/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg"
     }
   },
   {
@@ -610,7 +652,7 @@
       "language": "en",
       "synopsis": "Danny Ocean's team of criminals are back and composing a plan more personal than ever. When ruthless casino owner Willy Bank doublecrosses Reuben Tishkoff, causing a heart attack, Danny Ocean vows that he and his team will do anything to bring down Willy Bank along with everything he's got. Even if it means asking for help from an enemy.",
       "imdb_id": "tt0496806",
-      "tmdb_rating": 6.721,
+      "tmdb_rating": 6.723,
       "genres": "Crime, Thriller",
       "poster_url": "https://image.tmdb.org/t/p/original/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg"
     }
@@ -624,7 +666,7 @@
       "language": "en",
       "synopsis": "The orphaned Baudelaire children face trials, tribulations and the evil Count Olaf, all in their quest to uncover the secret of their parents' death.",
       "imdb_id": null,
-      "tmdb_rating": 7.4,
+      "tmdb_rating": 7.401,
       "genres": "Action & Adventure, Family, Comedy, Mystery",
       "poster_url": "https://image.tmdb.org/t/p/original/qg7WXAatXyQq6zO3SnWnRJEayeZ.jpg"
     }
@@ -644,20 +686,6 @@
     }
   },
   {
-    "query": "Bodyguard",
-    "details": {
-      "title": "Bodyguard",
-      "type": "tv",
-      "length": 60,
-      "language": "en",
-      "synopsis": "A troubled war veteran is assigned to protect a controversial politician who may be the target of a terror plot.",
-      "imdb_id": null,
-      "tmdb_rating": 7.77,
-      "genres": "Crime, Drama, War & Politics",
-      "poster_url": "https://image.tmdb.org/t/p/original/5DUJTrHTRLHLCKWriPhdusQogAv.jpg"
-    }
-  },
-  {
     "query": "Outer Banks",
     "details": {
       "title": "Outer Banks",
@@ -666,7 +694,7 @@
       "language": "en",
       "synopsis": "A tight-knit group of teens unearths a long-buried secret, setting off a chain of illicit events that takes them on an adventure they'll never forget.",
       "imdb_id": null,
-      "tmdb_rating": 8.357,
+      "tmdb_rating": 8.358,
       "genres": "Action & Adventure, Drama, Mystery",
       "poster_url": "https://image.tmdb.org/t/p/original/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg"
     }
@@ -680,7 +708,7 @@
       "language": "en",
       "synopsis": "Tom Kirkman, a low-level cabinet member is suddenly appointed President of the United States after a catastrophic attack during the State of the Union kills everyone above him in the Presidential line of succession.",
       "imdb_id": null,
-      "tmdb_rating": 7.1,
+      "tmdb_rating": 7.123,
       "genres": "Drama, War & Politics",
       "poster_url": "https://image.tmdb.org/t/p/original/5R125JAIh1N38pzHp2dRsBpOVNY.jpg"
     }
@@ -708,7 +736,7 @@
       "language": "hi",
       "synopsis": "An army major goes undercover as a college student. His mission is both professional and personal: to protect his general's daughter from a radical militant, and to find his estranged half-brother.",
       "imdb_id": "tt0347473",
-      "tmdb_rating": 6.636,
+      "tmdb_rating": 6.621,
       "genres": "Drama",
       "poster_url": "https://image.tmdb.org/t/p/original/iiZ8BgmAsxKUEyO6ux8z6GHiE6j.jpg"
     }
@@ -736,7 +764,7 @@
       "language": "en",
       "synopsis": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.\u200b",
       "imdb_id": "tt0167260",
-      "tmdb_rating": 8.484,
+      "tmdb_rating": 8.5,
       "genres": "Adventure, Fantasy, Action",
       "poster_url": "https://image.tmdb.org/t/p/original/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg"
     }
@@ -806,7 +834,7 @@
       "language": "en",
       "synopsis": "After five (or six) years of vanilla-wedded bliss, ordinary suburbanites John and Jane Smith are stuck in a huge rut. Unbeknownst to each other, they are both coolly lethal, highly-paid assassins working for rival organisations. When they discover they're each other's next target, their secret lives collide in a spicy, explosive mix of wicked comedy, pent-up passion, nonstop action and high-tech weaponry.",
       "imdb_id": "tt0356910",
-      "tmdb_rating": 6.688,
+      "tmdb_rating": 6.689,
       "genres": "Action, Comedy, Drama, Thriller",
       "poster_url": "https://image.tmdb.org/t/p/original/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg"
     }
@@ -820,7 +848,7 @@
       "language": "en",
       "synopsis": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
       "imdb_id": "tt0126029",
-      "tmdb_rating": 7.751,
+      "tmdb_rating": 7.752,
       "genres": "Animation, Comedy, Fantasy, Adventure, Family",
       "poster_url": "https://image.tmdb.org/t/p/original/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg"
     }
@@ -834,7 +862,7 @@
       "language": "en",
       "synopsis": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.",
       "imdb_id": "tt1490017",
-      "tmdb_rating": 7.416,
+      "tmdb_rating": 7.4,
       "genres": "Animation, Family, Adventure, Comedy, Fantasy",
       "poster_url": "https://image.tmdb.org/t/p/original/lbctonEnewCYZ4FYoTZhs8cidAl.jpg"
     }
@@ -876,7 +904,7 @@
       "language": "en",
       "synopsis": "A single-camera ensemble comedy following the lives of an eclectic group of detectives in a New York precinct, including one slacker who is forced to shape up when he gets a new boss.",
       "imdb_id": null,
-      "tmdb_rating": 8.209,
+      "tmdb_rating": 8.211,
       "genres": "Comedy, Crime",
       "poster_url": "https://image.tmdb.org/t/p/original/hgRMSOt7a1b8qyQR68vUixJPang.jpg"
     }
@@ -890,7 +918,7 @@
       "language": "en",
       "synopsis": "In an attempt to beautify her town \u2014 and advance her career \u2014 Leslie Knope, a mid-level bureaucrat in the Parks and Recreation Department of Pawnee, Indiana, takes on bureaucrats, cranky neighbors, and single-issue fanatics whose weapons are lawsuits, the jumble of city codes, and the democratic process she loves so much.",
       "imdb_id": null,
-      "tmdb_rating": 8.0,
+      "tmdb_rating": 8.02,
       "genres": "Comedy",
       "poster_url": "https://image.tmdb.org/t/p/original/dDuzrl9rUIBYieZjqmtNCdncrmZ.jpg"
     }
@@ -904,7 +932,7 @@
       "language": "hi",
       "synopsis": "A soldier caught by enemies and presumed dead comes back to complete his mission, accompanied by old companions and foes.",
       "imdb_id": "tt12844910",
-      "tmdb_rating": 6.475,
+      "tmdb_rating": 6.5,
       "genres": "Action, Adventure, Thriller",
       "poster_url": "https://image.tmdb.org/t/p/original/cQOuFy19m0B8kpui7enCthaI8rP.jpg"
     }
@@ -946,7 +974,7 @@
       "language": "en",
       "synopsis": "When stuntman Bunny recruits struggling actress Honey for a side gig, they are hurled into a high-stakes world of action, espionage and betrayal. Years later, as their dangerous past catches up, the estranged Honey and Bunny must reunite and fight to protect their young daughter Nadia.",
       "imdb_id": null,
-      "tmdb_rating": 6.78,
+      "tmdb_rating": 6.8,
       "genres": "Action & Adventure, Drama, Sci-Fi & Fantasy",
       "poster_url": "https://image.tmdb.org/t/p/original/lzZ9J2FOsaq1DCuD7k2f4ogbXdD.jpg"
     }
@@ -1058,7 +1086,7 @@
       "language": "en",
       "synopsis": "Katniss Everdeen has returned home safe after winning the 74th Annual Hunger Games along with fellow tribute Peeta Mellark. Winning means that they must turn around and leave their family and close friends, embarking on a \"Victor's Tour\" of the districts. Along the way Katniss senses that a rebellion is simmering, but the Capitol is still very much in control as President Snow prepares the 75th Annual Hunger Games (The Quarter Quell) - a competition that could change Panem forever.",
       "imdb_id": "tt1951264",
-      "tmdb_rating": 7.428,
+      "tmdb_rating": 7.427,
       "genres": "Adventure, Action, Science Fiction",
       "poster_url": "https://image.tmdb.org/t/p/original/qdXXEFGuLLfMWa1DGEkWFUo8Zwd.jpg"
     }
@@ -1072,7 +1100,7 @@
       "language": "en",
       "synopsis": "Katniss Everdeen reluctantly becomes the symbol of a mass rebellion against the autocratic Capitol.",
       "imdb_id": "tt1951265",
-      "tmdb_rating": 6.818,
+      "tmdb_rating": 6.817,
       "genres": "Science Fiction, Adventure, Thriller",
       "poster_url": "https://image.tmdb.org/t/p/original/2hTPkBiXoMmrdtYgHtB9WU5dg80.jpg"
     }
@@ -1086,7 +1114,7 @@
       "language": "en",
       "synopsis": "With the nation of Panem in a full scale war, Katniss confronts President Snow in the final showdown. Teamed with a group of her closest friends \u2013 including Gale, Finnick, and Peeta \u2013 Katniss goes off on a mission with the unit from District 13 as they risk their lives to stage an assassination attempt on President Snow who has become increasingly obsessed with destroying her. The mortal traps, enemies, and moral choices that await Katniss will challenge her more than any arena she faced in The Hunger Games.",
       "imdb_id": "tt1951266",
-      "tmdb_rating": 6.9,
+      "tmdb_rating": 6.899,
       "genres": "Action, Adventure, Science Fiction",
       "poster_url": "https://image.tmdb.org/t/p/original/7uLJCuK0ufoDklUdOORC8XanOKw.jpg"
     }
@@ -1100,7 +1128,7 @@
       "language": "en",
       "synopsis": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
       "imdb_id": "tt10545296",
-      "tmdb_rating": 7.018,
+      "tmdb_rating": 7.0,
       "genres": "Drama, Science Fiction, Adventure, Action",
       "poster_url": "https://image.tmdb.org/t/p/original/lrkOYL5GBTFW9cgs9RlojxAcZZF.jpg"
     }
@@ -1142,7 +1170,7 @@
       "language": "hi",
       "synopsis": "The heartwarming tale of Barfi, a charming deaf-mute young man from 1970s Darjeeling, and two unalike women who can't help but fall for him.",
       "imdb_id": "tt2082197",
-      "tmdb_rating": 7.6,
+      "tmdb_rating": 7.559,
       "genres": "Drama, Romance, Comedy",
       "poster_url": "https://image.tmdb.org/t/p/original/5cJIx2zKjDoUtPSliou23xsReb1.jpg"
     }
@@ -1170,7 +1198,7 @@
       "language": "en",
       "synopsis": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
       "imdb_id": null,
-      "tmdb_rating": 8.048,
+      "tmdb_rating": 8.063,
       "genres": "Drama, Crime",
       "poster_url": "https://image.tmdb.org/t/p/original/9lLuhV703HGCbnz6FxnqCwIwzAZ.jpg"
     }
@@ -1184,7 +1212,7 @@
       "language": "en",
       "synopsis": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
       "imdb_id": null,
-      "tmdb_rating": 8.596,
+      "tmdb_rating": 8.595,
       "genres": "Drama, Sci-Fi & Fantasy, Mystery",
       "poster_url": "https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg"
     }
@@ -1198,7 +1226,7 @@
       "language": "en",
       "synopsis": "A veteran pot dealer creates a fake family as part of his plan to move a huge shipment of weed into the U.S. from Mexico.",
       "imdb_id": "tt1723121",
-      "tmdb_rating": 6.833,
+      "tmdb_rating": 6.834,
       "genres": "Comedy, Crime",
       "poster_url": "https://image.tmdb.org/t/p/original/yNJreiR2PuiGwsWWJC7cWpgXwCL.jpg"
     }
@@ -1226,7 +1254,7 @@
       "language": "en",
       "synopsis": "Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they'd ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.",
       "imdb_id": "tt7069210",
-      "tmdb_rating": 7.406,
+      "tmdb_rating": 7.407,
       "genres": "Horror, Mystery, Thriller",
       "poster_url": "https://image.tmdb.org/t/p/original/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg"
     }
@@ -1254,7 +1282,7 @@
       "language": "hi",
       "synopsis": "In 2001, somewhere in rural India, two young brides get accidentally swapped on a train. In the ensuing chaos, they both encounter a host of colourful characters, resulting in hilarious and unexpected consequences.",
       "imdb_id": "tt21626284",
-      "tmdb_rating": 7.75,
+      "tmdb_rating": 7.706,
       "genres": "Comedy, Drama, Romance",
       "poster_url": "https://image.tmdb.org/t/p/original/yXt07MYeiyQRzS69PMHy0BPjCGP.jpg"
     }
@@ -1271,6 +1299,34 @@
       "tmdb_rating": 7.8,
       "genres": "Comedy, Drama, Action",
       "poster_url": "https://image.tmdb.org/t/p/original/vhlliI7HZZlWfo5d6CiyfBAGLrW.jpg"
+    }
+  },
+  {
+    "query": "Fleabag",
+    "details": {
+      "title": "Fleabag",
+      "type": "tv",
+      "length": null,
+      "language": "en",
+      "synopsis": "A portrait into the mind of a dry-witted, sexual, angry, porn-watching, grief-riddled woman, trying to make sense of the world. As she hurls herself headlong at modern living, Fleabag is thrown roughly up against the walls of contemporary London, with all its frenetic energy, late nights, and bright lights.",
+      "imdb_id": null,
+      "tmdb_rating": 8.3,
+      "genres": "Comedy, Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/27vEYsRKa3eAniwmoccOoluEXQ1.jpg"
+    }
+  },
+  {
+    "query": "Adolescence",
+    "details": {
+      "title": "Adolescence",
+      "type": "tv",
+      "length": null,
+      "language": "en",
+      "synopsis": "When a 13-year-old is accused of the murder of a classmate, his family, therapist and the detective in charge are all left asking: what really happened?",
+      "imdb_id": null,
+      "tmdb_rating": 7.854,
+      "genres": "Drama, Crime",
+      "poster_url": "https://image.tmdb.org/t/p/original/tDHWWReefmOOjBCJZUck8cNwssk.jpg"
     }
   }
 ]
