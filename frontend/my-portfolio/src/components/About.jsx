@@ -41,7 +41,7 @@ export default function About() {
           {/* Move the button row here */}
           <div className="mt-6 flex flex-row items-center gap-6 justify-start">
             <a
-              href="https://drive.google.com/file/d/1TFiJ3Xv1DRVB1eYSHY7Li92yycWeHfuK/view?usp=sharing"
+              href="https://drive.google.com/file/d/1ZHGajliORAa753fGa-TU-7vMmP0L32Gz/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="resume-button"
