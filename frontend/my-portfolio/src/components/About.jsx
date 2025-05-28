@@ -28,12 +28,12 @@ export default function About() {
         {/* Text and buttons on the right */}
         <div className="font-sans lg:text-lg md:text-md sm:text-sm w-full md:w-2/3 space-y-6 text-opacity-70" style={{ color: '#0f420f' }}>
           <p>
-            Howdy! My name is Kavya Agar, a chill guy that likes to try anything and everything. 
+            Hullo! My name is Kavya Agar, a chill guy that likes to try anything and everything. 
           </p>
           <p>
             I am an undergraduate Computer Science student at Texas A&M University with minors in Statistics 
             and Business. Outside of academics, I like to watch Netflix, bake chocolate chip cookies,
-            make terrible jokes, read books of all kind, and run side quests.
+            make terrible jokes, read books of all kind, while simultaneously running side quests.
           </p>
           <p>
             Join my journey as I explore the world of technology and share my experiences along the way!

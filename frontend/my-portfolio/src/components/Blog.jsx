@@ -61,7 +61,7 @@ export default function Blog() {
     return (
         <motion.section
             id="blog"
-            className="max-w-4xl mx-auto py-16 px-4 md:px-8"
+            className="max-w-4xl mx-auto py-16 px-4 md:px-8 pt-0"
             initial={{ opacity: 0, y: 40 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
