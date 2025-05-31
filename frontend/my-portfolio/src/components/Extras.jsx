@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
 import Movies from './Movies.jsx';
+import WorldMap from './WorldMap.jsx';
 
 export default function Extras() {
   return (
@@ -13,8 +14,9 @@ export default function Extras() {
       >
         Extras
       </motion.h1>
-      <p className="text-lg text-gray-700"style={{ color: '#0f420f' }}>Here are some extra random bits!</p>
+      <p className="text-lg"style={{ color: '#0f420f' }}>Here are some extra random bits!</p>
       <Movies />
+      <WorldMap />
     </div>
   );
 }
