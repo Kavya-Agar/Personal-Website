@@ -15,26 +15,32 @@ export default function Movies() {
   return (
     <div className="py-8 px-2 sm:px-4 max-w-7xl mx-auto">
       <h1 className="text-2xl sm:text-3xl font-bold mb-6 text-center">Favorite Movies and Shows</h1>
-      <div className="flex sm:space-x-6 overflow-x-auto pb-4 scrollbar-hide gap-4">
-        {moviesData.map((item, idx) => (
-          <div
-            key={idx}
-            className="flex-shrink-0 w-32 sm:w-40 cursor-pointer transform hover:scale-105 transition"
-            onClick={() => handlePosterClick(item.details)}
-            title={item.details.title}
-          >
-            <img
-              src={item.details.poster_url}
-              alt={item.details.title}
-              className="rounded-lg shadow-md w-full h-44 sm:h-60 object-cover"
-            />
-            <div className="mt-2 text-center text-xs sm:text-sm font-medium truncate">{item.details.title}</div>
-          </div>
-        ))}
+      {/* Carousel Wrapper */}
+      <div className="w-full overflow-x-auto">
+        <div className="flex justify-center sm:space-x-6 gap-4 w-max mx-auto pb-4 scrollbar-hide">
+          {moviesData.map((item, idx) => (
+            <div
+              key={idx}
+              className="flex-shrink-0 w-32 sm:w-40 cursor-pointer transform hover:scale-105 transition"
+              onClick={() => handlePosterClick(item.details)}
+              title={item.details.title}
+            >
+              <img
+                src={item.details.poster_url}
+                alt={item.details.title}
+                className="rounded-lg shadow-md w-full h-44 sm:h-60 object-cover"
+              />
+              <div className="mt-2 text-center text-xs sm:text-sm font-medium truncate">
+                {item.details.title}
+              </div>
+            </div>
+          ))}
+        </div>
       </div>
+
       {selectedMovie && (
         <div
-          className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-70 px-2"
+          className="fixed inset-0 z-2000 flex items-center justify-center bg-black bg-opacity-70 px-2"
           onClick={handleCloseModal}
         >
           <div
